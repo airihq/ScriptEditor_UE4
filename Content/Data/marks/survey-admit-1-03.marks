@@ -1,0 +1,24 @@
+{"time":0,"type":"sentence","start":0,"end":27,"value":"즐거운 시간 되세요!"}
+{"time":6,"type":"word","start":0,"end":9,"value":"즐거운"}
+{"time":6,"type":"viseme","value":"J"}
+{"time":96,"type":"viseme","value":"i"}
+{"time":137,"type":"viseme","value":"t"}
+{"time":247,"type":"viseme","value":"k"}
+{"time":303,"type":"viseme","value":"@"}
+{"time":432,"type":"viseme","value":"u"}
+{"time":494,"type":"viseme","value":"t"}
+{"time":567,"type":"word","start":10,"end":16,"value":"시간"}
+{"time":567,"type":"viseme","value":"s"}
+{"time":657,"type":"viseme","value":"i"}
+{"time":697,"type":"viseme","value":"k"}
+{"time":758,"type":"viseme","value":"a"}
+{"time":831,"type":"viseme","value":"t"}
+{"time":919,"type":"word","start":17,"end":26,"value":"되세요"}
+{"time":919,"type":"viseme","value":"t"}
+{"time":965,"type":"viseme","value":"u"}
+{"time":1002,"type":"viseme","value":"e"}
+{"time":1054,"type":"viseme","value":"s"}
+{"time":1151,"type":"viseme","value":"e"}
+{"time":1268,"type":"viseme","value":"i"}
+{"time":1529,"type":"viseme","value":"o"}
+{"time":1597,"type":"viseme","value":"sil"}

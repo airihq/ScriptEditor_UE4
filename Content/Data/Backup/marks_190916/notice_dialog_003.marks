@@ -1,0 +1,27 @@
+{"time":0,"type":"sentence","start":0,"end":32,"value":"잠시만 실례하겠습니다."}
+{"time":6,"type":"word","start":0,"end":9,"value":"잠시만"}
+{"time":6,"type":"viseme","value":"J"}
+{"time":72,"type":"viseme","value":"a"}
+{"time":134,"type":"viseme","value":"p"}
+{"time":194,"type":"viseme","value":"s"}
+{"time":284,"type":"viseme","value":"i"}
+{"time":328,"type":"viseme","value":"p"}
+{"time":382,"type":"viseme","value":"a"}
+{"time":444,"type":"viseme","value":"t"}
+{"time":505,"type":"word","start":10,"end":31,"value":"실례하겠습니다"}
+{"time":505,"type":"viseme","value":"s"}
+{"time":597,"type":"viseme","value":"i"}
+{"time":622,"type":"viseme","value":"t"}
+{"time":664,"type":"viseme","value":"t"}
+{"time":695,"type":"viseme","value":"e"}
+{"time":743,"type":"viseme","value":"a"}
+{"time":814,"type":"viseme","value":"k"}
+{"time":876,"type":"viseme","value":"e"}
+{"time":926,"type":"viseme","value":"s"}
+{"time":1044,"type":"viseme","value":"i"}
+{"time":1081,"type":"viseme","value":"p"}
+{"time":1123,"type":"viseme","value":"t"}
+{"time":1163,"type":"viseme","value":"i"}
+{"time":1215,"type":"viseme","value":"t"}
+{"time":1314,"type":"viseme","value":"a"}
+{"time":1566,"type":"viseme","value":"sil"}

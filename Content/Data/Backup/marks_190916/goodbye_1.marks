@@ -1,0 +1,17 @@
+{"time":0,"type":"sentence","start":0,"end":19,"value":"안녕히 가세요"}
+{"time":6,"type":"word","start":0,"end":9,"value":"안녕히"}
+{"time":6,"type":"viseme","value":"a"}
+{"time":81,"type":"viseme","value":"t"}
+{"time":129,"type":"viseme","value":"t"}
+{"time":180,"type":"viseme","value":"i"}
+{"time":231,"type":"viseme","value":"@"}
+{"time":281,"type":"viseme","value":"k"}
+{"time":358,"type":"viseme","value":"i"}
+{"time":449,"type":"word","start":10,"end":19,"value":"가세요"}
+{"time":449,"type":"viseme","value":"k"}
+{"time":517,"type":"viseme","value":"a"}
+{"time":582,"type":"viseme","value":"s"}
+{"time":677,"type":"viseme","value":"e"}
+{"time":794,"type":"viseme","value":"i"}
+{"time":1055,"type":"viseme","value":"o"}
+{"time":1122,"type":"viseme","value":"sil"}

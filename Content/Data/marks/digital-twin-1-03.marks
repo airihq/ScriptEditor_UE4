@@ -1,0 +1,36 @@
+{"time":0,"type":"sentence","start":0,"end":47,"value":"그것이 디지털 트윈 서비스 입니다."}
+{"time":6,"type":"word","start":0,"end":9,"value":"그것이"}
+{"time":6,"type":"viseme","value":"k"}
+{"time":66,"type":"viseme","value":"i"}
+{"time":116,"type":"viseme","value":"k"}
+{"time":162,"type":"viseme","value":"@"}
+{"time":235,"type":"viseme","value":"s"}
+{"time":335,"type":"viseme","value":"i"}
+{"time":434,"type":"word","start":10,"end":19,"value":"디지털"}
+{"time":434,"type":"viseme","value":"t"}
+{"time":516,"type":"viseme","value":"i"}
+{"time":578,"type":"viseme","value":"J"}
+{"time":642,"type":"viseme","value":"i"}
+{"time":680,"type":"viseme","value":"t"}
+{"time":757,"type":"viseme","value":"@"}
+{"time":820,"type":"viseme","value":"t"}
+{"time":870,"type":"word","start":20,"end":26,"value":"트윈"}
+{"time":870,"type":"viseme","value":"t"}
+{"time":965,"type":"viseme","value":"i"}
+{"time":1007,"type":"viseme","value":"u"}
+{"time":1078,"type":"viseme","value":"i"}
+{"time":1126,"type":"viseme","value":"t"}
+{"time":1187,"type":"word","start":27,"end":46,"value":"서비스 입니다"}
+{"time":1187,"type":"viseme","value":"s"}
+{"time":1294,"type":"viseme","value":"@"}
+{"time":1357,"type":"viseme","value":"p"}
+{"time":1409,"type":"viseme","value":"i"}
+{"time":1448,"type":"viseme","value":"s"}
+{"time":1559,"type":"viseme","value":"i"}
+{"time":1597,"type":"viseme","value":"i"}
+{"time":1634,"type":"viseme","value":"p"}
+{"time":1704,"type":"viseme","value":"t"}
+{"time":1774,"type":"viseme","value":"i"}
+{"time":1837,"type":"viseme","value":"t"}
+{"time":1925,"type":"viseme","value":"a"}
+{"time":2253,"type":"viseme","value":"sil"}

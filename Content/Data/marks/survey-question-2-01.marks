@@ -1,0 +1,25 @@
+{"time":0,"type":"sentence","start":0,"end":31,"value":"모두 몇 분이 오셨나요?"}
+{"time":6,"type":"word","start":0,"end":6,"value":"모두"}
+{"time":6,"type":"viseme","value":"p"}
+{"time":44,"type":"viseme","value":"o"}
+{"time":145,"type":"viseme","value":"t"}
+{"time":204,"type":"viseme","value":"u"}
+{"time":291,"type":"word","start":7,"end":17,"value":"몇 분이"}
+{"time":291,"type":"viseme","value":"p"}
+{"time":352,"type":"viseme","value":"i"}
+{"time":401,"type":"viseme","value":"@"}
+{"time":448,"type":"viseme","value":"p"}
+{"time":547,"type":"viseme","value":"u"}
+{"time":582,"type":"viseme","value":"t"}
+{"time":649,"type":"viseme","value":"i"}
+{"time":724,"type":"word","start":18,"end":30,"value":"오셨나요"}
+{"time":724,"type":"viseme","value":"o"}
+{"time":873,"type":"viseme","value":"s"}
+{"time":959,"type":"viseme","value":"i"}
+{"time":991,"type":"viseme","value":"@"}
+{"time":1030,"type":"viseme","value":"t"}
+{"time":1076,"type":"viseme","value":"t"}
+{"time":1155,"type":"viseme","value":"a"}
+{"time":1255,"type":"viseme","value":"i"}
+{"time":1328,"type":"viseme","value":"o"}
+{"time":1568,"type":"viseme","value":"sil"}

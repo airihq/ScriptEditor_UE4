@@ -1,0 +1,26 @@
+{"time":0,"type":"sentence","start":0,"end":29,"value":"궁금하신 것이 있으면"}
+{"time":6,"type":"word","start":0,"end":12,"value":"궁금하신"}
+{"time":6,"type":"viseme","value":"k"}
+{"time":54,"type":"viseme","value":"u"}
+{"time":95,"type":"viseme","value":"k"}
+{"time":171,"type":"viseme","value":"k"}
+{"time":210,"type":"viseme","value":"i"}
+{"time":251,"type":"viseme","value":"p"}
+{"time":310,"type":"viseme","value":"a"}
+{"time":386,"type":"viseme","value":"s"}
+{"time":478,"type":"viseme","value":"i"}
+{"time":520,"type":"viseme","value":"t"}
+{"time":581,"type":"word","start":13,"end":19,"value":"것이"}
+{"time":581,"type":"viseme","value":"k"}
+{"time":625,"type":"viseme","value":"@"}
+{"time":694,"type":"viseme","value":"s"}
+{"time":796,"type":"viseme","value":"i"}
+{"time":838,"type":"word","start":20,"end":29,"value":"있으면"}
+{"time":838,"type":"viseme","value":"i"}
+{"time":909,"type":"viseme","value":"s"}
+{"time":1045,"type":"viseme","value":"i"}
+{"time":1086,"type":"viseme","value":"p"}
+{"time":1165,"type":"viseme","value":"i"}
+{"time":1220,"type":"viseme","value":"@"}
+{"time":1280,"type":"viseme","value":"t"}
+{"time":1463,"type":"viseme","value":"sil"}

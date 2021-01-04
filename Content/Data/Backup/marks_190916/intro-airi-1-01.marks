@@ -1,0 +1,27 @@
+{"time":0,"type":"sentence","start":0,"end":29,"value":"저는 안내를 담당하는"}
+{"time":6,"type":"word","start":0,"end":6,"value":"저는"}
+{"time":6,"type":"viseme","value":"J"}
+{"time":84,"type":"viseme","value":"@"}
+{"time":173,"type":"viseme","value":"t"}
+{"time":222,"type":"viseme","value":"i"}
+{"time":281,"type":"viseme","value":"t"}
+{"time":358,"type":"word","start":7,"end":16,"value":"안내를"}
+{"time":358,"type":"viseme","value":"a"}
+{"time":447,"type":"viseme","value":"t"}
+{"time":526,"type":"viseme","value":"t"}
+{"time":576,"type":"viseme","value":"e"}
+{"time":636,"type":"viseme","value":"t"}
+{"time":689,"type":"viseme","value":"i"}
+{"time":721,"type":"viseme","value":"t"}
+{"time":799,"type":"word","start":17,"end":29,"value":"담당하는"}
+{"time":799,"type":"viseme","value":"t"}
+{"time":868,"type":"viseme","value":"a"}
+{"time":928,"type":"viseme","value":"p"}
+{"time":1018,"type":"viseme","value":"t"}
+{"time":1055,"type":"viseme","value":"a"}
+{"time":1116,"type":"viseme","value":"k"}
+{"time":1172,"type":"viseme","value":"a"}
+{"time":1255,"type":"viseme","value":"t"}
+{"time":1309,"type":"viseme","value":"i"}
+{"time":1381,"type":"viseme","value":"t"}
+{"time":1580,"type":"viseme","value":"sil"}

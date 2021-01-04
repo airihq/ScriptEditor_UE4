@@ -1,0 +1,14 @@
+{"time":0,"type":"sentence","start":0,"end":15,"value":"안녕하세요"}
+{"time":6,"type":"word","start":0,"end":15,"value":"안녕하세요"}
+{"time":6,"type":"viseme","value":"a"}
+{"time":85,"type":"viseme","value":"t"}
+{"time":154,"type":"viseme","value":"t"}
+{"time":207,"type":"viseme","value":"i"}
+{"time":261,"type":"viseme","value":"@"}
+{"time":290,"type":"viseme","value":"k"}
+{"time":356,"type":"viseme","value":"a"}
+{"time":437,"type":"viseme","value":"s"}
+{"time":529,"type":"viseme","value":"e"}
+{"time":636,"type":"viseme","value":"i"}
+{"time":958,"type":"viseme","value":"o"}
+{"time":1035,"type":"viseme","value":"sil"}

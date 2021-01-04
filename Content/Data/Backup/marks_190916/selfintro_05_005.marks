@@ -1,0 +1,23 @@
+{"time":0,"type":"sentence","start":0,"end":23,"value":"손을 번쩍 들거나"}
+{"time":6,"type":"word","start":0,"end":6,"value":"손을"}
+{"time":6,"type":"viseme","value":"s"}
+{"time":99,"type":"viseme","value":"o"}
+{"time":201,"type":"viseme","value":"t"}
+{"time":252,"type":"viseme","value":"i"}
+{"time":312,"type":"viseme","value":"t"}
+{"time":391,"type":"word","start":7,"end":13,"value":"번쩍"}
+{"time":391,"type":"viseme","value":"p"}
+{"time":470,"type":"viseme","value":"@"}
+{"time":540,"type":"viseme","value":"t"}
+{"time":614,"type":"viseme","value":"J"}
+{"time":679,"type":"viseme","value":"@"}
+{"time":719,"type":"viseme","value":"k"}
+{"time":791,"type":"word","start":14,"end":23,"value":"들거나"}
+{"time":791,"type":"viseme","value":"t"}
+{"time":856,"type":"viseme","value":"i"}
+{"time":894,"type":"viseme","value":"t"}
+{"time":993,"type":"viseme","value":"k"}
+{"time":1052,"type":"viseme","value":"@"}
+{"time":1111,"type":"viseme","value":"t"}
+{"time":1182,"type":"viseme","value":"a"}
+{"time":1529,"type":"viseme","value":"sil"}

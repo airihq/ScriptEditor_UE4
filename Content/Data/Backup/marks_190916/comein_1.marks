@@ -1,0 +1,13 @@
+{"time":0,"type":"sentence","start":0,"end":15,"value":"들어가세요"}
+{"time":6,"type":"word","start":0,"end":15,"value":"들어가세요"}
+{"time":6,"type":"viseme","value":"t"}
+{"time":61,"type":"viseme","value":"i"}
+{"time":99,"type":"viseme","value":"t"}
+{"time":161,"type":"viseme","value":"@"}
+{"time":239,"type":"viseme","value":"k"}
+{"time":295,"type":"viseme","value":"a"}
+{"time":368,"type":"viseme","value":"s"}
+{"time":466,"type":"viseme","value":"e"}
+{"time":580,"type":"viseme","value":"i"}
+{"time":879,"type":"viseme","value":"o"}
+{"time":953,"type":"viseme","value":"sil"}

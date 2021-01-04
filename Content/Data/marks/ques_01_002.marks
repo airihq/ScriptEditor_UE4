@@ -1,0 +1,25 @@
+{"time":0,"type":"sentence","start":0,"end":26,"value":"제 설명은 끝났구요"}
+{"time":6,"type":"word","start":0,"end":3,"value":"제"}
+{"time":6,"type":"viseme","value":"J"}
+{"time":109,"type":"viseme","value":"e"}
+{"time":207,"type":"word","start":4,"end":13,"value":"설명은"}
+{"time":207,"type":"viseme","value":"s"}
+{"time":292,"type":"viseme","value":"@"}
+{"time":345,"type":"viseme","value":"t"}
+{"time":394,"type":"viseme","value":"p"}
+{"time":440,"type":"viseme","value":"i"}
+{"time":489,"type":"viseme","value":"@"}
+{"time":539,"type":"viseme","value":"k"}
+{"time":579,"type":"viseme","value":"i"}
+{"time":640,"type":"viseme","value":"t"}
+{"time":694,"type":"word","start":14,"end":26,"value":"끝났구요"}
+{"time":694,"type":"viseme","value":"k"}
+{"time":767,"type":"viseme","value":"i"}
+{"time":811,"type":"viseme","value":"t"}
+{"time":861,"type":"viseme","value":"t"}
+{"time":914,"type":"viseme","value":"a"}
+{"time":974,"type":"viseme","value":"k"}
+{"time":1084,"type":"viseme","value":"u"}
+{"time":1149,"type":"viseme","value":"i"}
+{"time":1211,"type":"viseme","value":"o"}
+{"time":1499,"type":"viseme","value":"sil"}

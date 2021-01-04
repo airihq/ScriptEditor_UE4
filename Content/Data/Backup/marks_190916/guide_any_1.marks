@@ -1,0 +1,32 @@
+{"time":0,"type":"sentence","start":0,"end":40,"value":"안에서 직원과 얘기 해 보세요"}
+{"time":6,"type":"word","start":0,"end":9,"value":"안에서"}
+{"time":6,"type":"viseme","value":"a"}
+{"time":115,"type":"viseme","value":"t"}
+{"time":174,"type":"viseme","value":"e"}
+{"time":246,"type":"viseme","value":"s"}
+{"time":323,"type":"viseme","value":"@"}
+{"time":412,"type":"word","start":10,"end":19,"value":"직원과"}
+{"time":412,"type":"viseme","value":"J"}
+{"time":533,"type":"viseme","value":"i"}
+{"time":575,"type":"viseme","value":"k"}
+{"time":630,"type":"viseme","value":"u"}
+{"time":673,"type":"viseme","value":"@"}
+{"time":718,"type":"viseme","value":"k"}
+{"time":800,"type":"viseme","value":"k"}
+{"time":830,"type":"viseme","value":"u"}
+{"time":879,"type":"viseme","value":"a"}
+{"time":940,"type":"word","start":20,"end":26,"value":"얘기"}
+{"time":940,"type":"viseme","value":"i"}
+{"time":1029,"type":"viseme","value":"e"}
+{"time":1118,"type":"viseme","value":"k"}
+{"time":1182,"type":"viseme","value":"i"}
+{"time":1260,"type":"word","start":27,"end":40,"value":"해 보세요"}
+{"time":1260,"type":"viseme","value":"k"}
+{"time":1330,"type":"viseme","value":"e"}
+{"time":1370,"type":"viseme","value":"p"}
+{"time":1424,"type":"viseme","value":"o"}
+{"time":1483,"type":"viseme","value":"s"}
+{"time":1576,"type":"viseme","value":"e"}
+{"time":1695,"type":"viseme","value":"i"}
+{"time":1964,"type":"viseme","value":"o"}
+{"time":2047,"type":"viseme","value":"sil"}

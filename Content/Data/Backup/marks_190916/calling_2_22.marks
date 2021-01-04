@@ -1,0 +1,17 @@
+{"time":0,"type":"sentence","start":0,"end":15,"value":"장윤석님은"}
+{"time":6,"type":"word","start":0,"end":15,"value":"장윤석님은"}
+{"time":6,"type":"viseme","value":"J"}
+{"time":84,"type":"viseme","value":"a"}
+{"time":151,"type":"viseme","value":"k"}
+{"time":234,"type":"viseme","value":"i"}
+{"time":286,"type":"viseme","value":"u"}
+{"time":315,"type":"viseme","value":"t"}
+{"time":366,"type":"viseme","value":"s"}
+{"time":444,"type":"viseme","value":"@"}
+{"time":485,"type":"viseme","value":"k"}
+{"time":555,"type":"viseme","value":"t"}
+{"time":597,"type":"viseme","value":"i"}
+{"time":668,"type":"viseme","value":"p"}
+{"time":740,"type":"viseme","value":"i"}
+{"time":798,"type":"viseme","value":"t"}
+{"time":1009,"type":"viseme","value":"sil"}

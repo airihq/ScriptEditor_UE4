@@ -1,0 +1,27 @@
+{"time":0,"type":"sentence","start":0,"end":37,"value":"아래의 버튼을 눌러 주세요."}
+{"time":6,"type":"word","start":0,"end":9,"value":"아래의"}
+{"time":6,"type":"viseme","value":"a"}
+{"time":104,"type":"viseme","value":"t"}
+{"time":142,"type":"viseme","value":"e"}
+{"time":203,"type":"viseme","value":"e"}
+{"time":422,"type":"word","start":10,"end":19,"value":"버튼을"}
+{"time":422,"type":"viseme","value":"p"}
+{"time":510,"type":"viseme","value":"@"}
+{"time":576,"type":"viseme","value":"t"}
+{"time":691,"type":"viseme","value":"i"}
+{"time":735,"type":"viseme","value":"t"}
+{"time":784,"type":"viseme","value":"i"}
+{"time":834,"type":"viseme","value":"t"}
+{"time":911,"type":"word","start":20,"end":36,"value":"눌러 주세요"}
+{"time":911,"type":"viseme","value":"t"}
+{"time":967,"type":"viseme","value":"u"}
+{"time":1017,"type":"viseme","value":"t"}
+{"time":1066,"type":"viseme","value":"t"}
+{"time":1116,"type":"viseme","value":"@"}
+{"time":1177,"type":"viseme","value":"J"}
+{"time":1259,"type":"viseme","value":"u"}
+{"time":1309,"type":"viseme","value":"s"}
+{"time":1389,"type":"viseme","value":"e"}
+{"time":1507,"type":"viseme","value":"i"}
+{"time":1826,"type":"viseme","value":"o"}
+{"time":1884,"type":"viseme","value":"sil"}

@@ -1,0 +1,23 @@
+{"time":0,"type":"sentence","start":0,"end":29,"value":"구로구 주민이신가요?"}
+{"time":6,"type":"word","start":0,"end":9,"value":"구로구"}
+{"time":6,"type":"viseme","value":"k"}
+{"time":82,"type":"viseme","value":"u"}
+{"time":124,"type":"viseme","value":"t"}
+{"time":171,"type":"viseme","value":"o"}
+{"time":241,"type":"viseme","value":"k"}
+{"time":310,"type":"viseme","value":"u"}
+{"time":377,"type":"word","start":10,"end":28,"value":"주민이신가요"}
+{"time":377,"type":"viseme","value":"J"}
+{"time":483,"type":"viseme","value":"u"}
+{"time":512,"type":"viseme","value":"p"}
+{"time":586,"type":"viseme","value":"i"}
+{"time":633,"type":"viseme","value":"t"}
+{"time":689,"type":"viseme","value":"i"}
+{"time":750,"type":"viseme","value":"s"}
+{"time":835,"type":"viseme","value":"i"}
+{"time":874,"type":"viseme","value":"k"}
+{"time":930,"type":"viseme","value":"k"}
+{"time":974,"type":"viseme","value":"a"}
+{"time":1062,"type":"viseme","value":"i"}
+{"time":1122,"type":"viseme","value":"o"}
+{"time":1336,"type":"viseme","value":"sil"}

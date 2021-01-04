@@ -1,0 +1,11 @@
+{"time":0,"type":"sentence","start":0,"end":9,"value":"그러면"}
+{"time":6,"type":"word","start":0,"end":9,"value":"그러면"}
+{"time":6,"type":"viseme","value":"k"}
+{"time":54,"type":"viseme","value":"i"}
+{"time":98,"type":"viseme","value":"t"}
+{"time":126,"type":"viseme","value":"@"}
+{"time":217,"type":"viseme","value":"p"}
+{"time":286,"type":"viseme","value":"i"}
+{"time":336,"type":"viseme","value":"@"}
+{"time":396,"type":"viseme","value":"t"}
+{"time":579,"type":"viseme","value":"sil"}

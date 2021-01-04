@@ -1,0 +1,18 @@
+{"time":0,"type":"sentence","start":0,"end":20,"value":"잘 안들리네요."}
+{"time":6,"type":"word","start":0,"end":3,"value":"잘"}
+{"time":6,"type":"viseme","value":"J"}
+{"time":101,"type":"viseme","value":"a"}
+{"time":215,"type":"viseme","value":"t"}
+{"time":308,"type":"word","start":4,"end":19,"value":"안들리네요"}
+{"time":308,"type":"viseme","value":"a"}
+{"time":465,"type":"viseme","value":"t"}
+{"time":534,"type":"viseme","value":"t"}
+{"time":574,"type":"viseme","value":"i"}
+{"time":612,"type":"viseme","value":"t"}
+{"time":666,"type":"viseme","value":"t"}
+{"time":716,"type":"viseme","value":"i"}
+{"time":795,"type":"viseme","value":"t"}
+{"time":856,"type":"viseme","value":"e"}
+{"time":999,"type":"viseme","value":"i"}
+{"time":1225,"type":"viseme","value":"o"}
+{"time":1305,"type":"viseme","value":"sil"}

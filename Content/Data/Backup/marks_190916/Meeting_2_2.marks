@@ -1,0 +1,16 @@
+{"time":0,"type":"sentence","start":0,"end":20,"value":"미팅 있으세요?"}
+{"time":6,"type":"word","start":0,"end":6,"value":"미팅"}
+{"time":6,"type":"viseme","value":"p"}
+{"time":44,"type":"viseme","value":"i"}
+{"time":145,"type":"viseme","value":"t"}
+{"time":228,"type":"viseme","value":"i"}
+{"time":281,"type":"viseme","value":"k"}
+{"time":326,"type":"word","start":7,"end":19,"value":"있으세요"}
+{"time":326,"type":"viseme","value":"i"}
+{"time":395,"type":"viseme","value":"s"}
+{"time":511,"type":"viseme","value":"i"}
+{"time":565,"type":"viseme","value":"s"}
+{"time":668,"type":"viseme","value":"e"}
+{"time":795,"type":"viseme","value":"i"}
+{"time":829,"type":"viseme","value":"o"}
+{"time":1006,"type":"viseme","value":"sil"}

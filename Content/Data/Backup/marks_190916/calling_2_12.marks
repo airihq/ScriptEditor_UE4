@@ -1,0 +1,16 @@
+{"time":0,"type":"sentence","start":0,"end":15,"value":"박상은님은"}
+{"time":6,"type":"word","start":0,"end":15,"value":"박상은님은"}
+{"time":6,"type":"viseme","value":"p"}
+{"time":60,"type":"viseme","value":"a"}
+{"time":122,"type":"viseme","value":"k"}
+{"time":160,"type":"viseme","value":"s"}
+{"time":278,"type":"viseme","value":"a"}
+{"time":336,"type":"viseme","value":"k"}
+{"time":401,"type":"viseme","value":"i"}
+{"time":453,"type":"viseme","value":"t"}
+{"time":522,"type":"viseme","value":"t"}
+{"time":572,"type":"viseme","value":"i"}
+{"time":623,"type":"viseme","value":"p"}
+{"time":680,"type":"viseme","value":"i"}
+{"time":749,"type":"viseme","value":"t"}
+{"time":955,"type":"viseme","value":"sil"}

@@ -1,0 +1,26 @@
+{"time":0,"type":"sentence","start":0,"end":32,"value":"시간이 초과되었습니다."}
+{"time":6,"type":"word","start":0,"end":9,"value":"시간이"}
+{"time":6,"type":"viseme","value":"s"}
+{"time":127,"type":"viseme","value":"i"}
+{"time":175,"type":"viseme","value":"k"}
+{"time":233,"type":"viseme","value":"a"}
+{"time":306,"type":"viseme","value":"t"}
+{"time":365,"type":"viseme","value":"i"}
+{"time":446,"type":"word","start":10,"end":31,"value":"초과되었습니다"}
+{"time":446,"type":"viseme","value":"J"}
+{"time":560,"type":"viseme","value":"o"}
+{"time":612,"type":"viseme","value":"k"}
+{"time":660,"type":"viseme","value":"u"}
+{"time":688,"type":"viseme","value":"a"}
+{"time":742,"type":"viseme","value":"t"}
+{"time":786,"type":"viseme","value":"u"}
+{"time":814,"type":"viseme","value":"e"}
+{"time":854,"type":"viseme","value":"@"}
+{"time":945,"type":"viseme","value":"s"}
+{"time":1085,"type":"viseme","value":"i"}
+{"time":1112,"type":"viseme","value":"p"}
+{"time":1143,"type":"viseme","value":"t"}
+{"time":1190,"type":"viseme","value":"i"}
+{"time":1258,"type":"viseme","value":"t"}
+{"time":1348,"type":"viseme","value":"a"}
+{"time":1661,"type":"viseme","value":"sil"}

@@ -1,0 +1,187 @@
+{
+    "Script": {
+        "gesture_schedule": [
+            {
+                "start": 6,
+                "periodic": 0,
+                "controller": "BothArm1",
+                "phase": "pre",
+                "pose": 0,
+                "type": "Point_Who_BothArm_Yous_1",
+                "duration": 480,
+                "relative": 0
+            },
+            {
+                "start": 607,
+                "periodic": 0,
+                "controller": "BothArm1",
+                "phase": "stroke",
+                "pose": 0,
+                "type": "Point_Who_BothArm_Yous_1",
+                "duration": 1048,
+                "relative": 0
+            },
+            {
+                "start": 1764,
+                "periodic": 0,
+                "controller": "BothArm1",
+                "phase": "pre",
+                "pose": 0,
+                "type": "Object_Measure_WIdth_2",
+                "duration": 546,
+                "relative": 0
+            },
+            {
+                "start": 2493,
+                "periodic": 0,
+                "controller": "BothArm1",
+                "phase": "stroke",
+                "pose": 0,
+                "type": "Object_Measure_WIdth_2",
+                "duration": 244,
+                "relative": 0
+            },
+            {
+                "start": 3106,
+                "periodic": 0,
+                "controller": "BothArm1",
+                "phase": "relax",
+                "pose": 0,
+                "type": "Object_Measure_WIdth_2",
+                "duration": 591,
+                "relative": 0
+            },
+            {
+                "start": 2493,
+                "periodic": 1,
+                "controller": "Head1",
+                "phase": "stroke",
+                "pose": 0,
+                "type": "Head_Nod_3",
+                "duration": 488,
+                "relative": 1
+            },
+            {
+                "start": 2981,
+                "periodic": 1,
+                "controller": "Head1",
+                "phase": "stroke",
+                "pose": 0,
+                "type": "Head_Nod_3",
+                "duration": 428,
+                "relative": 1
+            },
+            {
+                "start": 6,
+                "periodic": 1,
+                "controller": "Breathing",
+                "phase": "stroke",
+                "pose": 0,
+                "type": "Breathing_3",
+                "duration": 601,
+                "relative": 1
+            },
+            {
+                "start": 1331,
+                "periodic": 1,
+                "controller": "Breathing",
+                "phase": "stroke",
+                "pose": 0,
+                "type": "Breathing_3",
+                "duration": 979,
+                "relative": 1
+            }
+        ],
+        "audio_id": "ques_01_001",
+        "Flag": {
+            "Head": 2,
+            "Upper": 2,
+            "Rotate": 2
+        },
+        "line": "\uc9c0\uae08\uae4c\uc9c0 \uc5f4\uc5ec\uc12f\uac1c\uc758 \ubd80\uc2a4\uc5d0 \ub300\ud574\uc11c,\uac04\ub7b5\ud558\uac8c \uc18c\uac1c\ub97c \ub4dc\ub838\uc2b5\ub2c8\ub2e4",
+        "duration": 4519,
+        "command_schedule": [            
+            {
+                "controller": "GazeHead",
+                "command": "TurnOn",                                
+                "start": 200
+            },
+            {
+                "controller": "GazeHead",
+                "command": "TurnOff",                
+                "start": 100
+            },
+            {
+                "controller": "GazeHead",
+                "command": "SetLocation",
+                "id": 3,
+                "position": [300, 0, 170],
+                "start": 100
+            },
+            {
+                "controller": "GazeHead",
+                "command": "SetTarget",
+                "id": 0,
+                "start": 300
+            },
+            {
+                "controller": "GazeHead",
+                "command": "SetVelocity",                
+                "velocity": 2.5,
+                "start": 100
+            },
+            {
+                "controller": "GazeHead",
+                "command": "SetPermitFlag",                
+                "permitHeadCS": false,
+                "permitEyeCS": false,
+                "start": 100
+            }
+        ],
+        "panel_schedule": [],
+        "SpecialCommands": [],
+        "face_schedule": [
+            {
+                "phase": "stroke",
+                "type": "Amused",
+                "start": 246,
+                "duration": 361,
+                "controller": "Face"
+            },
+            {
+                "phase": "relax",
+                "type": "Amused",
+                "start": 1439,
+                "duration": 325,
+                "controller": "Face"
+            },
+            {
+                "phase": "stroke",
+                "type": "Tender",
+                "start": 1764,
+                "duration": 546,
+                "controller": "Face"
+            },
+            {
+                "phase": "relax",
+                "type": "Tender",
+                "start": 3884,
+                "duration": 374,
+                "controller": "Face"
+            }
+        ],
+        "audio_schedule": [
+            {
+                "type": "start",
+                "time": 0
+            },
+            {
+                "type": "stop",
+                "time": 4519
+            }
+        ],
+        "blink_schedule": [],
+        "name": ""
+    },
+    "Id": "0"
+}

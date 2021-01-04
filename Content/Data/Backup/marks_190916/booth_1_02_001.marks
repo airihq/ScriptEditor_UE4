@@ -1,0 +1,27 @@
+{"time":0,"type":"sentence","start":0,"end":32,"value":"아린원이 궁금하시군요."}
+{"time":6,"type":"word","start":0,"end":12,"value":"아린원이"}
+{"time":6,"type":"viseme","value":"a"}
+{"time":116,"type":"viseme","value":"t"}
+{"time":169,"type":"viseme","value":"i"}
+{"time":239,"type":"viseme","value":"t"}
+{"time":289,"type":"viseme","value":"u"}
+{"time":329,"type":"viseme","value":"@"}
+{"time":369,"type":"viseme","value":"t"}
+{"time":432,"type":"viseme","value":"i"}
+{"time":562,"type":"word","start":13,"end":31,"value":"궁금하시군요"}
+{"time":562,"type":"viseme","value":"k"}
+{"time":664,"type":"viseme","value":"u"}
+{"time":725,"type":"viseme","value":"k"}
+{"time":796,"type":"viseme","value":"k"}
+{"time":833,"type":"viseme","value":"i"}
+{"time":913,"type":"viseme","value":"p"}
+{"time":988,"type":"viseme","value":"a"}
+{"time":1053,"type":"viseme","value":"s"}
+{"time":1143,"type":"viseme","value":"i"}
+{"time":1176,"type":"viseme","value":"k"}
+{"time":1229,"type":"viseme","value":"u"}
+{"time":1269,"type":"viseme","value":"t"}
+{"time":1381,"type":"viseme","value":"t"}
+{"time":1471,"type":"viseme","value":"i"}
+{"time":1802,"type":"viseme","value":"o"}
+{"time":1881,"type":"viseme","value":"sil"}

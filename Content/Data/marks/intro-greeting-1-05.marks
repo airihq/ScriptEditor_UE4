@@ -1,0 +1,14 @@
+{"time":0,"type":"sentence","start":0,"end":13,"value":"잠시 동안"}
+{"time":6,"type":"word","start":0,"end":6,"value":"잠시"}
+{"time":6,"type":"viseme","value":"J"}
+{"time":72,"type":"viseme","value":"a"}
+{"time":134,"type":"viseme","value":"p"}
+{"time":194,"type":"viseme","value":"s"}
+{"time":284,"type":"viseme","value":"i"}
+{"time":345,"type":"word","start":7,"end":13,"value":"동안"}
+{"time":345,"type":"viseme","value":"t"}
+{"time":407,"type":"viseme","value":"o"}
+{"time":448,"type":"viseme","value":"k"}
+{"time":537,"type":"viseme","value":"a"}
+{"time":632,"type":"viseme","value":"t"}
+{"time":778,"type":"viseme","value":"sil"}

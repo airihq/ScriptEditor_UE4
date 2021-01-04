@@ -1,0 +1,21 @@
+{"time":0,"type":"sentence","start":0,"end":23,"value":"좋은 시간 되세요"}
+{"time":6,"type":"word","start":0,"end":6,"value":"좋은"}
+{"time":6,"type":"viseme","value":"J"}
+{"time":77,"type":"viseme","value":"o"}
+{"time":196,"type":"viseme","value":"i"}
+{"time":244,"type":"viseme","value":"t"}
+{"time":311,"type":"word","start":7,"end":13,"value":"시간"}
+{"time":311,"type":"viseme","value":"s"}
+{"time":414,"type":"viseme","value":"i"}
+{"time":465,"type":"viseme","value":"k"}
+{"time":515,"type":"viseme","value":"a"}
+{"time":573,"type":"viseme","value":"t"}
+{"time":628,"type":"word","start":14,"end":23,"value":"되세요"}
+{"time":628,"type":"viseme","value":"t"}
+{"time":668,"type":"viseme","value":"u"}
+{"time":707,"type":"viseme","value":"e"}
+{"time":770,"type":"viseme","value":"s"}
+{"time":852,"type":"viseme","value":"e"}
+{"time":969,"type":"viseme","value":"i"}
+{"time":1230,"type":"viseme","value":"o"}
+{"time":1298,"type":"viseme","value":"sil"}

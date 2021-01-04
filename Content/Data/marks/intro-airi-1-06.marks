@@ -1,0 +1,32 @@
+{"time":0,"type":"sentence","start":0,"end":43,"value":"그리고 입장을 안내해 드립니다."}
+{"time":6,"type":"word","start":0,"end":9,"value":"그리고"}
+{"time":6,"type":"viseme","value":"k"}
+{"time":49,"type":"viseme","value":"i"}
+{"time":90,"type":"viseme","value":"t"}
+{"time":129,"type":"viseme","value":"i"}
+{"time":197,"type":"viseme","value":"k"}
+{"time":266,"type":"viseme","value":"o"}
+{"time":344,"type":"word","start":10,"end":19,"value":"입장을"}
+{"time":344,"type":"viseme","value":"i"}
+{"time":437,"type":"viseme","value":"p"}
+{"time":488,"type":"viseme","value":"J"}
+{"time":565,"type":"viseme","value":"a"}
+{"time":635,"type":"viseme","value":"k"}
+{"time":685,"type":"viseme","value":"i"}
+{"time":748,"type":"viseme","value":"t"}
+{"time":776,"type":"word","start":20,"end":42,"value":"안내해 드립니다"}
+{"time":776,"type":"viseme","value":"a"}
+{"time":887,"type":"viseme","value":"t"}
+{"time":937,"type":"viseme","value":"t"}
+{"time":984,"type":"viseme","value":"e"}
+{"time":1050,"type":"viseme","value":"e"}
+{"time":1133,"type":"viseme","value":"t"}
+{"time":1208,"type":"viseme","value":"i"}
+{"time":1238,"type":"viseme","value":"t"}
+{"time":1277,"type":"viseme","value":"i"}
+{"time":1314,"type":"viseme","value":"p"}
+{"time":1373,"type":"viseme","value":"t"}
+{"time":1423,"type":"viseme","value":"i"}
+{"time":1484,"type":"viseme","value":"t"}
+{"time":1577,"type":"viseme","value":"a"}
+{"time":1905,"type":"viseme","value":"sil"}

@@ -1,0 +1,21 @@
+{"time":0,"type":"sentence","start":0,"end":25,"value":"구로 스마트시티는"}
+{"time":6,"type":"word","start":0,"end":6,"value":"구로"}
+{"time":6,"type":"viseme","value":"k"}
+{"time":84,"type":"viseme","value":"u"}
+{"time":145,"type":"viseme","value":"t"}
+{"time":195,"type":"viseme","value":"o"}
+{"time":307,"type":"word","start":7,"end":25,"value":"스마트시티는"}
+{"time":307,"type":"viseme","value":"s"}
+{"time":434,"type":"viseme","value":"i"}
+{"time":464,"type":"viseme","value":"p"}
+{"time":526,"type":"viseme","value":"a"}
+{"time":604,"type":"viseme","value":"t"}
+{"time":706,"type":"viseme","value":"i"}
+{"time":765,"type":"viseme","value":"s"}
+{"time":865,"type":"viseme","value":"i"}
+{"time":905,"type":"viseme","value":"t"}
+{"time":1006,"type":"viseme","value":"i"}
+{"time":1044,"type":"viseme","value":"t"}
+{"time":1094,"type":"viseme","value":"i"}
+{"time":1166,"type":"viseme","value":"t"}
+{"time":1335,"type":"viseme","value":"sil"}

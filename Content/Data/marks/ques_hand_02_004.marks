@@ -1,0 +1,21 @@
+{"time":0,"type":"sentence","start":0,"end":23,"value":"웃고 계신 남자분"}
+{"time":6,"type":"word","start":0,"end":6,"value":"웃고"}
+{"time":6,"type":"viseme","value":"u"}
+{"time":95,"type":"viseme","value":"k"}
+{"time":181,"type":"viseme","value":"o"}
+{"time":293,"type":"word","start":7,"end":13,"value":"계신"}
+{"time":293,"type":"viseme","value":"k"}
+{"time":375,"type":"viseme","value":"e"}
+{"time":441,"type":"viseme","value":"s"}
+{"time":531,"type":"viseme","value":"i"}
+{"time":568,"type":"viseme","value":"t"}
+{"time":635,"type":"word","start":14,"end":23,"value":"남자분"}
+{"time":635,"type":"viseme","value":"t"}
+{"time":686,"type":"viseme","value":"a"}
+{"time":754,"type":"viseme","value":"p"}
+{"time":826,"type":"viseme","value":"J"}
+{"time":889,"type":"viseme","value":"a"}
+{"time":962,"type":"viseme","value":"p"}
+{"time":1023,"type":"viseme","value":"u"}
+{"time":1095,"type":"viseme","value":"t"}
+{"time":1305,"type":"viseme","value":"sil"}

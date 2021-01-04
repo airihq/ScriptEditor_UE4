@@ -1,0 +1,16 @@
+{"time":0,"type":"sentence","start":0,"end":17,"value":"웃고 계신 분"}
+{"time":6,"type":"word","start":0,"end":6,"value":"웃고"}
+{"time":6,"type":"viseme","value":"u"}
+{"time":78,"type":"viseme","value":"k"}
+{"time":177,"type":"viseme","value":"o"}
+{"time":289,"type":"word","start":7,"end":13,"value":"계신"}
+{"time":289,"type":"viseme","value":"k"}
+{"time":381,"type":"viseme","value":"e"}
+{"time":463,"type":"viseme","value":"s"}
+{"time":558,"type":"viseme","value":"i"}
+{"time":597,"type":"viseme","value":"t"}
+{"time":656,"type":"word","start":14,"end":17,"value":"분"}
+{"time":656,"type":"viseme","value":"p"}
+{"time":740,"type":"viseme","value":"u"}
+{"time":818,"type":"viseme","value":"t"}
+{"time":1048,"type":"viseme","value":"sil"}

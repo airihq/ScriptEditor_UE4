@@ -1,0 +1,20 @@
+{"time":0,"type":"sentence","start":0,"end":23,"value":"질문 있으신가요?"}
+{"time":6,"type":"word","start":0,"end":6,"value":"질문"}
+{"time":6,"type":"viseme","value":"J"}
+{"time":125,"type":"viseme","value":"i"}
+{"time":172,"type":"viseme","value":"t"}
+{"time":253,"type":"viseme","value":"p"}
+{"time":322,"type":"viseme","value":"u"}
+{"time":371,"type":"viseme","value":"t"}
+{"time":429,"type":"word","start":7,"end":22,"value":"있으신가요"}
+{"time":429,"type":"viseme","value":"i"}
+{"time":499,"type":"viseme","value":"s"}
+{"time":636,"type":"viseme","value":"i"}
+{"time":684,"type":"viseme","value":"s"}
+{"time":764,"type":"viseme","value":"i"}
+{"time":804,"type":"viseme","value":"k"}
+{"time":860,"type":"viseme","value":"k"}
+{"time":904,"type":"viseme","value":"a"}
+{"time":992,"type":"viseme","value":"i"}
+{"time":1052,"type":"viseme","value":"o"}
+{"time":1265,"type":"viseme","value":"sil"}

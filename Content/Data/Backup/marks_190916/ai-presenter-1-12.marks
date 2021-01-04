@@ -1,0 +1,31 @@
+{"time":0,"type":"sentence","start":0,"end":43,"value":"저와의 만남을 기대해 주십시오."}
+{"time":6,"type":"word","start":0,"end":9,"value":"저와의"}
+{"time":6,"type":"viseme","value":"J"}
+{"time":89,"type":"viseme","value":"@"}
+{"time":172,"type":"viseme","value":"u"}
+{"time":283,"type":"viseme","value":"a"}
+{"time":369,"type":"viseme","value":"e"}
+{"time":457,"type":"word","start":10,"end":19,"value":"만남을"}
+{"time":457,"type":"viseme","value":"p"}
+{"time":547,"type":"viseme","value":"a"}
+{"time":607,"type":"viseme","value":"t"}
+{"time":648,"type":"viseme","value":"t"}
+{"time":714,"type":"viseme","value":"a"}
+{"time":774,"type":"viseme","value":"p"}
+{"time":834,"type":"viseme","value":"i"}
+{"time":877,"type":"viseme","value":"t"}
+{"time":945,"type":"word","start":20,"end":42,"value":"기대해 주십시오"}
+{"time":945,"type":"viseme","value":"k"}
+{"time":1037,"type":"viseme","value":"i"}
+{"time":1095,"type":"viseme","value":"t"}
+{"time":1151,"type":"viseme","value":"e"}
+{"time":1187,"type":"viseme","value":"e"}
+{"time":1282,"type":"viseme","value":"J"}
+{"time":1356,"type":"viseme","value":"u"}
+{"time":1420,"type":"viseme","value":"s"}
+{"time":1502,"type":"viseme","value":"i"}
+{"time":1529,"type":"viseme","value":"p"}
+{"time":1571,"type":"viseme","value":"s"}
+{"time":1720,"type":"viseme","value":"i"}
+{"time":1789,"type":"viseme","value":"o"}
+{"time":2099,"type":"viseme","value":"sil"}

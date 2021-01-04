@@ -1,0 +1,73 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.20",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ScriptEditor",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"UMG"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "CsvReader",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/471f3ff2a011448f93522364b920a73d"
+		},
+		{
+			"Name": "LowEntryJson",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c108b5a8917c4c86873edf835237beab"
+		},
+		{
+			"Name": "LowEntryExtStdLib",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/846c2ad08f164f45b0335ecebf85361e"
+		},
+		{
+			"Name": "JSON4UE4",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/798c7f4ecd9f46f8ab6f906a5f294364"
+		},
+		{
+			"Name": "TemplatesUMG",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ec2ebdcd22954680b7b384cdd32b7772"
+		},
+		{
+			"Name": "TreeViewControl",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/949b3b8683e742d5b1d5132ef12389ff"
+		},
+		{
+			"Name": "DirectExcel",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/59f434efddeb4c93b27c8e05719664f1"
+		},
+		{
+			"Name": "HiSQLite3",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c8c0f3c46971495b8a8d400ec8627caa"
+		},
+		{
+			"Name": "LowEntryFileManager",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/58edabbac7514311a4670c5d47a6fae6"
+		},
+		{
+			"Name": "RealTimeImport",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5625d7b404e44200bb2f9cdb7dcf1c6a"
+		},
+		{
+			"Name": "SocketIOClient",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/770c3db686a948e09ccb208705a8e736"
+		}
+	]
+}

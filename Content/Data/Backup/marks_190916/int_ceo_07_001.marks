@@ -1,0 +1,20 @@
+{"time":0,"type":"sentence","start":0,"end":23,"value":"계속 하겠습니다."}
+{"time":6,"type":"word","start":0,"end":6,"value":"계속"}
+{"time":6,"type":"viseme","value":"k"}
+{"time":67,"type":"viseme","value":"e"}
+{"time":162,"type":"viseme","value":"s"}
+{"time":237,"type":"viseme","value":"o"}
+{"time":339,"type":"viseme","value":"k"}
+{"time":393,"type":"word","start":7,"end":22,"value":"하겠습니다"}
+{"time":393,"type":"viseme","value":"k"}
+{"time":459,"type":"viseme","value":"a"}
+{"time":495,"type":"viseme","value":"k"}
+{"time":543,"type":"viseme","value":"e"}
+{"time":587,"type":"viseme","value":"s"}
+{"time":706,"type":"viseme","value":"i"}
+{"time":745,"type":"viseme","value":"p"}
+{"time":790,"type":"viseme","value":"t"}
+{"time":839,"type":"viseme","value":"i"}
+{"time":911,"type":"viseme","value":"t"}
+{"time":998,"type":"viseme","value":"a"}
+{"time":1322,"type":"viseme","value":"sil"}

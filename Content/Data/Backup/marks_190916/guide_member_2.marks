@@ -1,0 +1,32 @@
+{"time":0,"type":"sentence","start":0,"end":27,"value":"여기에 계실 거에요."}
+{"time":6,"type":"word","start":0,"end":9,"value":"여기에"}
+{"time":6,"type":"viseme","value":"i"}
+{"time":76,"type":"viseme","value":"@"}
+{"time":166,"type":"viseme","value":"k"}
+{"time":265,"type":"viseme","value":"i"}
+{"time":320,"type":"viseme","value":"e"}
+{"time":440,"type":"word","start":10,"end":26,"value":"계실 거에요"}
+{"time":440,"type":"viseme","value":"k"}
+{"time":534,"type":"viseme","value":"e"}
+{"time":610,"type":"viseme","value":"s"}
+{"time":693,"type":"viseme","value":"i"}
+{"time":744,"type":"viseme","value":"t"}
+{"time":782,"type":"viseme","value":"k"}
+{"time":875,"type":"viseme","value":"@"}
+{"time":1005,"type":"viseme","value":"e"}
+{"time":1149,"type":"viseme","value":"i"}
+{"time":1427,"type":"viseme","value":"o"}
+{"time":1524,"type":"viseme","value":"sil"}
+{"time":1911,"type":"sentence","start":28,"end":43,"value":"들어가세요"}
+{"time":1917,"type":"word","start":28,"end":43,"value":"들어가세요"}
+{"time":1917,"type":"viseme","value":"t"}
+{"time":1972,"type":"viseme","value":"i"}
+{"time":2011,"type":"viseme","value":"t"}
+{"time":2072,"type":"viseme","value":"@"}
+{"time":2150,"type":"viseme","value":"k"}
+{"time":2206,"type":"viseme","value":"a"}
+{"time":2279,"type":"viseme","value":"s"}
+{"time":2377,"type":"viseme","value":"e"}
+{"time":2491,"type":"viseme","value":"i"}
+{"time":2790,"type":"viseme","value":"o"}
+{"time":2864,"type":"viseme","value":"sil"}

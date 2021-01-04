@@ -1,0 +1,42 @@
+{
+    "Script": {
+        "command_schedule": [            
+            {
+                "controller": "GazeHead",
+                "command": "TurnOn",                                
+                "start": 200
+            },
+            {
+                "controller": "GazeHead",
+                "command": "TurnOff",                
+                "start": 100
+            },
+            {
+                "controller": "GazeHead",
+                "command": "SetLocation",
+                "id": 3,
+                "position": [0.0, 0.0, 100.0],
+                "start": 100
+            },
+            {
+                "controller": "GazeHead",
+                "command": "SetTarget",
+                "id": 3,
+                "start": 300
+            },
+            {
+                "controller": "GazeHead",
+                "command": "SetVelocity",                
+                "velocity": 2.5,
+                "start": 100
+            },
+            {
+                "controller": "GazeHead",
+                "command": "SetPermitFlag",                
+                "permitHeadCS": false,
+                "permitEyeCS": false,
+                "start": 100
+            }
+        ]
+    }
+}

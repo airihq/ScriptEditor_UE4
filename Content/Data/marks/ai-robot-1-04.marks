@@ -1,0 +1,21 @@
+{"time":0,"type":"sentence","start":0,"end":23,"value":"제 친구 구로봇은"}
+{"time":6,"type":"word","start":0,"end":3,"value":"제"}
+{"time":6,"type":"viseme","value":"J"}
+{"time":84,"type":"viseme","value":"e"}
+{"time":254,"type":"word","start":4,"end":10,"value":"친구"}
+{"time":254,"type":"viseme","value":"J"}
+{"time":395,"type":"viseme","value":"i"}
+{"time":444,"type":"viseme","value":"k"}
+{"time":511,"type":"viseme","value":"k"}
+{"time":564,"type":"viseme","value":"u"}
+{"time":684,"type":"word","start":11,"end":23,"value":"구로봇은"}
+{"time":684,"type":"viseme","value":"k"}
+{"time":785,"type":"viseme","value":"u"}
+{"time":836,"type":"viseme","value":"t"}
+{"time":885,"type":"viseme","value":"o"}
+{"time":955,"type":"viseme","value":"p"}
+{"time":1034,"type":"viseme","value":"o"}
+{"time":1104,"type":"viseme","value":"s"}
+{"time":1226,"type":"viseme","value":"i"}
+{"time":1307,"type":"viseme","value":"t"}
+{"time":1503,"type":"viseme","value":"sil"}

@@ -1,0 +1,11 @@
+{"time":0,"type":"sentence","start":0,"end":16,"value":"어서오세요."}
+{"time":6,"type":"word","start":0,"end":15,"value":"어서오세요"}
+{"time":6,"type":"viseme","value":"@"}
+{"time":150,"type":"viseme","value":"s"}
+{"time":231,"type":"viseme","value":"@"}
+{"time":269,"type":"viseme","value":"o"}
+{"time":409,"type":"viseme","value":"s"}
+{"time":505,"type":"viseme","value":"e"}
+{"time":660,"type":"viseme","value":"i"}
+{"time":1000,"type":"viseme","value":"o"}
+{"time":1090,"type":"viseme","value":"sil"}

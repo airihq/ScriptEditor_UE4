@@ -1,0 +1,34 @@
+{"time":0,"type":"sentence","start":0,"end":47,"value":"그곳이 스마트 구로 서비스 입니다."}
+{"time":6,"type":"word","start":0,"end":9,"value":"그곳이"}
+{"time":6,"type":"viseme","value":"k"}
+{"time":61,"type":"viseme","value":"i"}
+{"time":124,"type":"viseme","value":"k"}
+{"time":179,"type":"viseme","value":"o"}
+{"time":257,"type":"viseme","value":"s"}
+{"time":351,"type":"viseme","value":"i"}
+{"time":453,"type":"word","start":10,"end":19,"value":"스마트"}
+{"time":453,"type":"viseme","value":"s"}
+{"time":558,"type":"viseme","value":"i"}
+{"time":591,"type":"viseme","value":"p"}
+{"time":649,"type":"viseme","value":"a"}
+{"time":710,"type":"viseme","value":"t"}
+{"time":808,"type":"viseme","value":"i"}
+{"time":875,"type":"word","start":20,"end":26,"value":"구로"}
+{"time":875,"type":"viseme","value":"k"}
+{"time":968,"type":"viseme","value":"u"}
+{"time":1010,"type":"viseme","value":"t"}
+{"time":1063,"type":"viseme","value":"o"}
+{"time":1133,"type":"word","start":27,"end":46,"value":"서비스 입니다"}
+{"time":1133,"type":"viseme","value":"s"}
+{"time":1250,"type":"viseme","value":"@"}
+{"time":1321,"type":"viseme","value":"p"}
+{"time":1380,"type":"viseme","value":"i"}
+{"time":1418,"type":"viseme","value":"s"}
+{"time":1529,"type":"viseme","value":"i"}
+{"time":1568,"type":"viseme","value":"i"}
+{"time":1605,"type":"viseme","value":"p"}
+{"time":1675,"type":"viseme","value":"t"}
+{"time":1745,"type":"viseme","value":"i"}
+{"time":1807,"type":"viseme","value":"t"}
+{"time":1896,"type":"viseme","value":"a"}
+{"time":2223,"type":"viseme","value":"sil"}

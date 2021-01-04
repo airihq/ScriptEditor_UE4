@@ -1,0 +1,25 @@
+{"time":0,"type":"sentence","start":0,"end":26,"value":"실장님, 안녕하세요"}
+{"time":6,"type":"word","start":0,"end":9,"value":"실장님"}
+{"time":6,"type":"viseme","value":"s"}
+{"time":91,"type":"viseme","value":"i"}
+{"time":133,"type":"viseme","value":"t"}
+{"time":193,"type":"viseme","value":"J"}
+{"time":278,"type":"viseme","value":"a"}
+{"time":356,"type":"viseme","value":"k"}
+{"time":431,"type":"viseme","value":"t"}
+{"time":542,"type":"viseme","value":"i"}
+{"time":653,"type":"viseme","value":"p"}
+{"time":824,"type":"viseme","value":"sil"}
+{"time":999,"type":"word","start":11,"end":26,"value":"안녕하세요"}
+{"time":999,"type":"viseme","value":"a"}
+{"time":1086,"type":"viseme","value":"t"}
+{"time":1137,"type":"viseme","value":"t"}
+{"time":1193,"type":"viseme","value":"i"}
+{"time":1242,"type":"viseme","value":"@"}
+{"time":1292,"type":"viseme","value":"k"}
+{"time":1365,"type":"viseme","value":"a"}
+{"time":1434,"type":"viseme","value":"s"}
+{"time":1534,"type":"viseme","value":"e"}
+{"time":1630,"type":"viseme","value":"i"}
+{"time":1930,"type":"viseme","value":"o"}
+{"time":2017,"type":"viseme","value":"sil"}

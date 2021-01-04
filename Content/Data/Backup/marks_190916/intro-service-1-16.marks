@@ -1,0 +1,34 @@
+{"time":0,"type":"sentence","start":0,"end":46,"value":"저기 앞에 주황색으로 보이는 것이"}
+{"time":6,"type":"word","start":0,"end":6,"value":"저기"}
+{"time":6,"type":"viseme","value":"J"}
+{"time":84,"type":"viseme","value":"@"}
+{"time":183,"type":"viseme","value":"k"}
+{"time":259,"type":"viseme","value":"i"}
+{"time":346,"type":"word","start":7,"end":13,"value":"앞에"}
+{"time":346,"type":"viseme","value":"a"}
+{"time":444,"type":"viseme","value":"p"}
+{"time":544,"type":"viseme","value":"e"}
+{"time":596,"type":"word","start":14,"end":29,"value":"주황색으로"}
+{"time":596,"type":"viseme","value":"J"}
+{"time":708,"type":"viseme","value":"u"}
+{"time":749,"type":"viseme","value":"u"}
+{"time":812,"type":"viseme","value":"a"}
+{"time":860,"type":"viseme","value":"k"}
+{"time":924,"type":"viseme","value":"s"}
+{"time":997,"type":"viseme","value":"e"}
+{"time":1070,"type":"viseme","value":"k"}
+{"time":1117,"type":"viseme","value":"i"}
+{"time":1146,"type":"viseme","value":"t"}
+{"time":1189,"type":"viseme","value":"o"}
+{"time":1277,"type":"word","start":30,"end":46,"value":"보이는 것이"}
+{"time":1277,"type":"viseme","value":"p"}
+{"time":1402,"type":"viseme","value":"o"}
+{"time":1505,"type":"viseme","value":"i"}
+{"time":1598,"type":"viseme","value":"t"}
+{"time":1643,"type":"viseme","value":"i"}
+{"time":1692,"type":"viseme","value":"k"}
+{"time":1767,"type":"viseme","value":"k"}
+{"time":1812,"type":"viseme","value":"@"}
+{"time":1883,"type":"viseme","value":"s"}
+{"time":2032,"type":"viseme","value":"i"}
+{"time":2275,"type":"viseme","value":"sil"}

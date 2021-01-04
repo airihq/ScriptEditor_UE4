@@ -1,0 +1,70 @@
+{
+    "GazeHead": [            
+            {
+                "command": "TurnOn",                                
+                "params": []
+            },
+            {
+                "command": "TurnOff",                
+                "params": ["relaxtime"]
+            },
+            {
+                "command": "SetLocation",
+                "params": ["id", "position"]
+            },
+            {
+                "command": "SetTarget",
+                "params": ["id"]
+            },
+            {
+                "command": "SetVelocity",                
+                "params": ["velocity"]
+            },
+            {
+                "command": "SetPermitFlag",                
+                "params": ["permitHeadCS", "permitEyeCS"]
+            }
+        ],
+    "GazeEye": [            
+                {
+                    "command": "TurnOn",                                
+                    "params": []
+                },
+                {
+                    "command": "TurnOff",                
+                    "params": ["relaxtime"]
+                },
+                {
+                    "command": "SetLocation",
+                    "params": ["id", "position"]
+                },
+                {
+                    "command": "SetTarget",
+                    "params": ["id"]
+                },
+                {
+                    "command": "SetVelocity",                
+                    "params": ["velocity"]
+                },
+                {
+                    "command": "SetPermitFlag",                
+                    "params": ["permitHeadCS", "permitEyeCS"]
+                }
+        ],
+    "Turn": [            
+            {
+                "command": "ROTATE",                                
+                "params": ["id"]
+            },
+            {
+                "command": "ROTATE_TO_MAINTARGET",                
+                "params": ["id"]
+            }
+        ],
+    "GazeUpper": [            
+            {
+                "command": "GazeUpper",                                
+                "params": ["id"]
+            }
+        ]
+}

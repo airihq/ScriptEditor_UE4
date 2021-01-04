@@ -1,0 +1,13 @@
+{"time":0,"type":"sentence","start":0,"end":20,"value":"아이리 입니다."}
+{"time":6,"type":"word","start":0,"end":19,"value":"아이리 입니다"}
+{"time":6,"type":"viseme","value":"a"}
+{"time":168,"type":"viseme","value":"i"}
+{"time":266,"type":"viseme","value":"t"}
+{"time":318,"type":"viseme","value":"i"}
+{"time":402,"type":"viseme","value":"i"}
+{"time":451,"type":"viseme","value":"p"}
+{"time":522,"type":"viseme","value":"t"}
+{"time":549,"type":"viseme","value":"i"}
+{"time":612,"type":"viseme","value":"t"}
+{"time":708,"type":"viseme","value":"a"}
+{"time":1000,"type":"viseme","value":"sil"}

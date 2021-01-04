@@ -1,0 +1,855 @@
+[
+	{
+		"type": "image_panel",
+		"name": "ClockWeatherPanel",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "Picket",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "Enter",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "Info",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "QuestionBox",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "PictureFrame",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "EndNotice",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "TimeNotice",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "LunchNotice",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "PictureContents",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "browser_panel",
+		"name": "InfoBrowser",
+		"function": [
+			"Open",
+			"ChangeURL",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "QuestionBox2",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "TimeNotice2",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "Menu",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "ResetButton",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "TestButton",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "AIRILogo",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "numberpad",
+		"name": "NumberPad",
+		"function": [
+			"Open",
+			"Close"
+		],
+		"param_num": [ 1, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "CloseText2",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "CloseText1",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "PicketText",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "q1_1",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "q1_2",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "TimeText1",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "TimeText2",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "Question1",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "LunchText1",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "LunchText2",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "LunchText3",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "weather_panel",
+		"name": "WeatherIcon",
+		"function": [
+			"Open",
+			"ChangeType",
+			"Close"
+		],
+		"param_num": [ 1, 1, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Icon,Temp",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "InfoIcon",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "NumberBox_1",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "Question2_1",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "q2_2_1",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "q2_1_1",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "GuideText_1",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "custombutton",
+		"name": "ButtonYes",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "custombutton",
+		"name": "ButtonNo",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "clock_panel",
+		"name": "DayofWeek",
+		"function": [
+			"Open",
+			"ChangeType",
+			"Close"
+		],
+		"param_num": [ 1, 1, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"HM,HMKor,AMPM,AMPMKor,HMS,HMSKor,Date,DateKor",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "TimeText2_1",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "TimeText1_1",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "InfoText",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "clock_panel",
+		"name": "AMPMClock",
+		"function": [
+			"Open",
+			"ChangeType",
+			"Close"
+		],
+		"param_num": [ 1, 1, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"HM,HMKor,AMPM,AMPMKor,HMS,HMSKor,Date,DateKor",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "custombutton",
+		"name": "CitizenCenter",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "custombutton",
+		"name": "DigitalTwin",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "custombutton",
+		"name": "AIRobot",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "custombutton",
+		"name": "VoiceTour",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "custombutton",
+		"name": "SmartService",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "custombutton",
+		"name": "AIInfo",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "custombutton",
+		"name": "SmartArchiving",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "custombutton",
+		"name": "SmartGuro",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "EnterText",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "clock_panel",
+		"name": "DateClock",
+		"function": [
+			"Open",
+			"ChangeType",
+			"Close"
+		],
+		"param_num": [ 1, 1, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"HM,HMKor,AMPM,AMPMKor,HMS,HMSKor,Date,DateKor",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "EnterIcon",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "GuideText",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "singletext_panel",
+		"name": "Myoung_1",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "singletext_panel",
+		"name": "NumberText_1",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	}
+]

@@ -1,0 +1,27 @@
+{"time":0,"type":"sentence","start":0,"end":31,"value":"손을 드신 분이 없군요."}
+{"time":6,"type":"word","start":0,"end":6,"value":"손을"}
+{"time":6,"type":"viseme","value":"s"}
+{"time":113,"type":"viseme","value":"o"}
+{"time":196,"type":"viseme","value":"t"}
+{"time":244,"type":"viseme","value":"i"}
+{"time":295,"type":"viseme","value":"t"}
+{"time":365,"type":"word","start":7,"end":13,"value":"드신"}
+{"time":365,"type":"viseme","value":"t"}
+{"time":422,"type":"viseme","value":"i"}
+{"time":475,"type":"viseme","value":"s"}
+{"time":563,"type":"viseme","value":"i"}
+{"time":603,"type":"viseme","value":"t"}
+{"time":662,"type":"word","start":14,"end":20,"value":"분이"}
+{"time":662,"type":"viseme","value":"p"}
+{"time":751,"type":"viseme","value":"u"}
+{"time":821,"type":"viseme","value":"t"}
+{"time":877,"type":"viseme","value":"i"}
+{"time":986,"type":"word","start":21,"end":30,"value":"없군요"}
+{"time":986,"type":"viseme","value":"@"}
+{"time":1097,"type":"viseme","value":"k"}
+{"time":1210,"type":"viseme","value":"u"}
+{"time":1247,"type":"viseme","value":"t"}
+{"time":1350,"type":"viseme","value":"t"}
+{"time":1436,"type":"viseme","value":"i"}
+{"time":1773,"type":"viseme","value":"o"}
+{"time":1854,"type":"viseme","value":"sil"}

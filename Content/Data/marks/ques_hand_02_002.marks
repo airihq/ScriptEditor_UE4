@@ -1,0 +1,20 @@
+{"time":0,"type":"sentence","start":0,"end":19,"value":"손드신 남자분"}
+{"time":6,"type":"word","start":0,"end":9,"value":"손드신"}
+{"time":6,"type":"viseme","value":"s"}
+{"time":88,"type":"viseme","value":"o"}
+{"time":150,"type":"viseme","value":"t"}
+{"time":208,"type":"viseme","value":"t"}
+{"time":253,"type":"viseme","value":"i"}
+{"time":301,"type":"viseme","value":"s"}
+{"time":386,"type":"viseme","value":"i"}
+{"time":447,"type":"viseme","value":"t"}
+{"time":522,"type":"word","start":10,"end":19,"value":"남자분"}
+{"time":522,"type":"viseme","value":"t"}
+{"time":581,"type":"viseme","value":"a"}
+{"time":655,"type":"viseme","value":"p"}
+{"time":751,"type":"viseme","value":"J"}
+{"time":818,"type":"viseme","value":"a"}
+{"time":891,"type":"viseme","value":"p"}
+{"time":951,"type":"viseme","value":"u"}
+{"time":1023,"type":"viseme","value":"t"}
+{"time":1234,"type":"viseme","value":"sil"}

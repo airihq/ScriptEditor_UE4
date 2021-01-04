@@ -1,0 +1,21 @@
+{"time":0,"type":"sentence","start":0,"end":24,"value":"제 바로 옆에 있는"}
+{"time":6,"type":"word","start":0,"end":3,"value":"제"}
+{"time":6,"type":"viseme","value":"J"}
+{"time":89,"type":"viseme","value":"e"}
+{"time":211,"type":"word","start":4,"end":10,"value":"바로"}
+{"time":211,"type":"viseme","value":"p"}
+{"time":277,"type":"viseme","value":"a"}
+{"time":354,"type":"viseme","value":"t"}
+{"time":404,"type":"viseme","value":"o"}
+{"time":495,"type":"word","start":11,"end":17,"value":"옆에"}
+{"time":495,"type":"viseme","value":"i"}
+{"time":565,"type":"viseme","value":"@"}
+{"time":630,"type":"viseme","value":"p"}
+{"time":766,"type":"viseme","value":"e"}
+{"time":793,"type":"word","start":18,"end":24,"value":"있는"}
+{"time":793,"type":"viseme","value":"i"}
+{"time":873,"type":"viseme","value":"t"}
+{"time":935,"type":"viseme","value":"t"}
+{"time":990,"type":"viseme","value":"i"}
+{"time":1072,"type":"viseme","value":"t"}
+{"time":1250,"type":"viseme","value":"sil"}

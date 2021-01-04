@@ -1,0 +1,33 @@
+{"time":0,"type":"sentence","start":0,"end":39,"value":"원하는 항목을 클릭해 주세요"}
+{"time":6,"type":"word","start":0,"end":9,"value":"원하는"}
+{"time":6,"type":"viseme","value":"u"}
+{"time":90,"type":"viseme","value":"@"}
+{"time":140,"type":"viseme","value":"t"}
+{"time":197,"type":"viseme","value":"a"}
+{"time":279,"type":"viseme","value":"t"}
+{"time":339,"type":"viseme","value":"i"}
+{"time":408,"type":"viseme","value":"t"}
+{"time":469,"type":"word","start":10,"end":19,"value":"항목을"}
+{"time":469,"type":"viseme","value":"k"}
+{"time":565,"type":"viseme","value":"a"}
+{"time":609,"type":"viseme","value":"k"}
+{"time":677,"type":"viseme","value":"p"}
+{"time":733,"type":"viseme","value":"o"}
+{"time":825,"type":"viseme","value":"k"}
+{"time":869,"type":"viseme","value":"i"}
+{"time":911,"type":"viseme","value":"t"}
+{"time":985,"type":"word","start":20,"end":39,"value":"클릭해 주세요"}
+{"time":985,"type":"viseme","value":"k"}
+{"time":1088,"type":"viseme","value":"i"}
+{"time":1127,"type":"viseme","value":"t"}
+{"time":1155,"type":"viseme","value":"t"}
+{"time":1201,"type":"viseme","value":"i"}
+{"time":1265,"type":"viseme","value":"k"}
+{"time":1363,"type":"viseme","value":"e"}
+{"time":1421,"type":"viseme","value":"J"}
+{"time":1492,"type":"viseme","value":"u"}
+{"time":1540,"type":"viseme","value":"s"}
+{"time":1608,"type":"viseme","value":"e"}
+{"time":1749,"type":"viseme","value":"i"}
+{"time":1989,"type":"viseme","value":"o"}
+{"time":2070,"type":"viseme","value":"sil"}

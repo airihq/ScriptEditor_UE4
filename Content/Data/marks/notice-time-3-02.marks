@@ -1,0 +1,22 @@
+{"time":0,"type":"sentence","start":0,"end":26,"value":"양해 부탁드립니다."}
+{"time":6,"type":"word","start":0,"end":6,"value":"양해"}
+{"time":6,"type":"viseme","value":"i"}
+{"time":78,"type":"viseme","value":"a"}
+{"time":158,"type":"viseme","value":"k"}
+{"time":247,"type":"viseme","value":"e"}
+{"time":356,"type":"word","start":7,"end":25,"value":"부탁드립니다"}
+{"time":356,"type":"viseme","value":"p"}
+{"time":426,"type":"viseme","value":"u"}
+{"time":477,"type":"viseme","value":"t"}
+{"time":553,"type":"viseme","value":"a"}
+{"time":615,"type":"viseme","value":"k"}
+{"time":662,"type":"viseme","value":"t"}
+{"time":716,"type":"viseme","value":"i"}
+{"time":754,"type":"viseme","value":"t"}
+{"time":796,"type":"viseme","value":"i"}
+{"time":835,"type":"viseme","value":"p"}
+{"time":890,"type":"viseme","value":"t"}
+{"time":936,"type":"viseme","value":"i"}
+{"time":1005,"type":"viseme","value":"t"}
+{"time":1097,"type":"viseme","value":"a"}
+{"time":1358,"type":"viseme","value":"sil"}

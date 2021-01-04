@@ -1,0 +1,24 @@
+{"time":0,"type":"sentence","start":0,"end":22,"value":"혹시 김동엽님과"}
+{"time":6,"type":"word","start":0,"end":6,"value":"혹시"}
+{"time":6,"type":"viseme","value":"k"}
+{"time":61,"type":"viseme","value":"o"}
+{"time":120,"type":"viseme","value":"k"}
+{"time":168,"type":"viseme","value":"s"}
+{"time":308,"type":"viseme","value":"i"}
+{"time":448,"type":"word","start":7,"end":22,"value":"김동엽님과"}
+{"time":448,"type":"viseme","value":"k"}
+{"time":553,"type":"viseme","value":"i"}
+{"time":590,"type":"viseme","value":"p"}
+{"time":684,"type":"viseme","value":"t"}
+{"time":727,"type":"viseme","value":"o"}
+{"time":781,"type":"viseme","value":"k"}
+{"time":878,"type":"viseme","value":"i"}
+{"time":919,"type":"viseme","value":"@"}
+{"time":959,"type":"viseme","value":"p"}
+{"time":1048,"type":"viseme","value":"t"}
+{"time":1092,"type":"viseme","value":"i"}
+{"time":1151,"type":"viseme","value":"k"}
+{"time":1249,"type":"viseme","value":"k"}
+{"time":1310,"type":"viseme","value":"u"}
+{"time":1367,"type":"viseme","value":"a"}
+{"time":1616,"type":"viseme","value":"sil"}

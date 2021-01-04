@@ -1,0 +1,27 @@
+{"time":0,"type":"sentence","start":0,"end":29,"value":"제게 질문하는 방법은"}
+{"time":6,"type":"word","start":0,"end":6,"value":"제게"}
+{"time":6,"type":"viseme","value":"J"}
+{"time":77,"type":"viseme","value":"e"}
+{"time":163,"type":"viseme","value":"k"}
+{"time":228,"type":"viseme","value":"e"}
+{"time":318,"type":"word","start":7,"end":19,"value":"질문하는"}
+{"time":318,"type":"viseme","value":"J"}
+{"time":423,"type":"viseme","value":"i"}
+{"time":464,"type":"viseme","value":"t"}
+{"time":514,"type":"viseme","value":"p"}
+{"time":590,"type":"viseme","value":"u"}
+{"time":641,"type":"viseme","value":"t"}
+{"time":700,"type":"viseme","value":"a"}
+{"time":759,"type":"viseme","value":"t"}
+{"time":822,"type":"viseme","value":"i"}
+{"time":885,"type":"viseme","value":"t"}
+{"time":965,"type":"word","start":20,"end":29,"value":"방법은"}
+{"time":965,"type":"viseme","value":"p"}
+{"time":1029,"type":"viseme","value":"a"}
+{"time":1087,"type":"viseme","value":"k"}
+{"time":1166,"type":"viseme","value":"p"}
+{"time":1218,"type":"viseme","value":"@"}
+{"time":1265,"type":"viseme","value":"p"}
+{"time":1340,"type":"viseme","value":"i"}
+{"time":1430,"type":"viseme","value":"t"}
+{"time":1625,"type":"viseme","value":"sil"}

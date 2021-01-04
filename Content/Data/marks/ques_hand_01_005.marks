@@ -1,0 +1,11 @@
+{"time":0,"type":"sentence","start":0,"end":11,"value":"네, 여기"}
+{"time":6,"type":"word","start":0,"end":3,"value":"네"}
+{"time":6,"type":"viseme","value":"t"}
+{"time":51,"type":"viseme","value":"e"}
+{"time":437,"type":"viseme","value":"sil"}
+{"time":632,"type":"word","start":5,"end":11,"value":"여기"}
+{"time":632,"type":"viseme","value":"i"}
+{"time":689,"type":"viseme","value":"@"}
+{"time":766,"type":"viseme","value":"k"}
+{"time":876,"type":"viseme","value":"i"}
+{"time":1129,"type":"viseme","value":"sil"}

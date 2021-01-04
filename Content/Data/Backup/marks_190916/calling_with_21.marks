@@ -1,0 +1,19 @@
+{"time":0,"type":"sentence","start":0,"end":19,"value":"혹시 이준님과"}
+{"time":6,"type":"word","start":0,"end":6,"value":"혹시"}
+{"time":6,"type":"viseme","value":"k"}
+{"time":61,"type":"viseme","value":"o"}
+{"time":120,"type":"viseme","value":"k"}
+{"time":168,"type":"viseme","value":"s"}
+{"time":298,"type":"viseme","value":"i"}
+{"time":370,"type":"word","start":7,"end":19,"value":"이준님과"}
+{"time":370,"type":"viseme","value":"i"}
+{"time":521,"type":"viseme","value":"J"}
+{"time":616,"type":"viseme","value":"u"}
+{"time":663,"type":"viseme","value":"t"}
+{"time":799,"type":"viseme","value":"t"}
+{"time":853,"type":"viseme","value":"i"}
+{"time":916,"type":"viseme","value":"k"}
+{"time":1009,"type":"viseme","value":"k"}
+{"time":1046,"type":"viseme","value":"u"}
+{"time":1118,"type":"viseme","value":"a"}
+{"time":1337,"type":"viseme","value":"sil"}

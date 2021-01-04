@@ -1,0 +1,34 @@
+{"time":0,"type":"sentence","start":0,"end":17,"value":"맹작가는 저."}
+{"time":6,"type":"word","start":0,"end":12,"value":"맹작가는"}
+{"time":6,"type":"viseme","value":"p"}
+{"time":25,"type":"viseme","value":"e"}
+{"time":109,"type":"viseme","value":"k"}
+{"time":195,"type":"viseme","value":"J"}
+{"time":256,"type":"viseme","value":"a"}
+{"time":334,"type":"viseme","value":"k"}
+{"time":428,"type":"viseme","value":"a"}
+{"time":501,"type":"viseme","value":"t"}
+{"time":551,"type":"viseme","value":"i"}
+{"time":610,"type":"viseme","value":"t"}
+{"time":708,"type":"word","start":13,"end":16,"value":"저"}
+{"time":708,"type":"viseme","value":"J"}
+{"time":794,"type":"viseme","value":"@"}
+{"time":1050,"type":"viseme","value":"sil"}
+{"time":1436,"type":"sentence","start":18,"end":41,"value":"안쪽에 있습니다."}
+{"time":1443,"type":"word","start":18,"end":27,"value":"안쪽에"}
+{"time":1443,"type":"viseme","value":"a"}
+{"time":1511,"type":"viseme","value":"t"}
+{"time":1578,"type":"viseme","value":"J"}
+{"time":1653,"type":"viseme","value":"o"}
+{"time":1714,"type":"viseme","value":"k"}
+{"time":1777,"type":"viseme","value":"e"}
+{"time":1854,"type":"word","start":28,"end":40,"value":"있습니다"}
+{"time":1854,"type":"viseme","value":"i"}
+{"time":1906,"type":"viseme","value":"s"}
+{"time":2051,"type":"viseme","value":"i"}
+{"time":2090,"type":"viseme","value":"p"}
+{"time":2132,"type":"viseme","value":"t"}
+{"time":2172,"type":"viseme","value":"i"}
+{"time":2242,"type":"viseme","value":"t"}
+{"time":2324,"type":"viseme","value":"a"}
+{"time":2585,"type":"viseme","value":"sil"}

@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Socket.io based Script Test</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <style>h5.indent{ padding-left: 0.5em }</style>
+</head>
+
+<body>
+    <div class="container">
+        <h2>Script Test</h2>
+        <form class="form-inline" id="form1">
+            <div class="form-group">
+                <label for="msgForm">Message: </label>
+                <input type="text" class="form-control" id="msgForm1">
+            </div>
+            <button type="submit" class="btn btn-primary">Send</button>
+        </form>
+        <div id="chatLogs"></div>
+    </div>
+
+    <div class="container">
+        <h3>Normal AS + Command Script</h3>                
+        <form class="form-inline" id="form2-as">            
+            <button type="submit" class="btn btn-primary">Send</button>
+            <div class="form-group">
+                <h5 class="indent">Action Script (no gaze)</h5>
+            </div>
+        </form>        
+        <form class="form-inline" id="form2-cs">
+            <button type="submit" class="btn btn-primary">Send</button>
+            <div class="form-group">
+                <h5 class="indent">Command Script</h5>
+            </div>
+        </form>
+        <div id="chatLogs"></div>
+    </div>
+
+    <div class="container">        
+        <h3>GazeHead2 + Dual</h3>        
+        <form class="form-inline" id="form3-as">            
+            <button type="submit" class="btn btn-primary">Send</button>
+            <div class="form-group">
+                    <h5 class="indent">Action: no gaze</h5>
+            </div>
+        </form>        
+        <form class="form-inline" id="form3-dual">
+            <button type="submit" class="btn btn-primary">Send</button>
+            <div class="form-group">
+                    <h5 class="indent">Dual</h5>
+            </div>
+        </form>                
+    </div>
+
+    <div class="container">
+        <h3>Switch by Interrupt</h3>
+        <form class="form-inline" id="form4-as1-1">
+            <button type="submit" class="btn btn-primary">Send</button>
+            <div class="form-group">
+                <h5 class="indent">action: scenario 1 - 1</h5>
+            </div>
+        </form>
+        <form class="form-inline" id="form4-interrupt">
+            <button type="submit" class="btn btn-primary">Send</button>
+            <div class="form-group">
+                <h5 class="indent">interrupt</h5>
+            </div>
+        </form>
+        <form class="form-inline" id="form4-as2">
+            <button type="submit" class="btn btn-primary">Send</button>
+            <div class="form-group">
+                <h5 class="indent">action: scenario 2 - 1</h5>
+            </div>
+        </form>
+        <form class="form-inline" id="form4-restore">
+            <button type="submit" class="btn btn-primary">Send</button>
+            <div class="form-group">
+                <h5 class="indent">restore</h5>
+            </div>
+        </form>
+        <form class="form-inline" id="form4-as1-2">
+            <button type="submit" class="btn btn-primary">Send</button>
+            <div class="form-group">
+                <h5 class="indent">action: scenario 1 - 2</h5>
+            </div>
+        </form>
+    </div>
+
+    
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        $(function () {
+
+            // socket.io 서버에 접속한다
+            var socket = io();
+
+            // 서버로 자신의 정보를 전송한다.
+            socket.emit("login", {
+                // name: "ungmo2",
+                name: makeRandomName(),
+                userid: "kcseo.acm@gmail.com"
+            });
+
+            // 서버로부터의 메시지가 수신되면
+            socket.on("login", function (data) {
+                $("#chatLogs").append("<div><strong>" + data + "</strong> has joined</div>");
+            });
+
+            // 서버로부터의 메시지가 수신되면
+            socket.on("action", function (data) {
+                $("#chatLogs").append("<div>" + data.msg + " : from <strong>" + data.from.name + "</strong></div>");
+            });
+
+            $("#form1").submit(function (e) {
+                e.preventDefault();
+                var $msgForm = $("#msgForm1");
+
+                // 서버로 메시지를 전송한다.
+                //socket.emit("action", { msg: $msgForm.val() });
+                socket.emit("operation", $msgForm.val());
+                $msgForm.val("");
+            });
+
+            $("#form2-as").submit(function (e) {
+                e.preventDefault();                
+                var msg = {"Script":{"line":"지금까지 열여섯개의 부스에 대해서,간략하게 소개를 드렸습니다","gesture_schedule":[{"controller":"BothArm1","type":"Point_Who_BothArm_Yous_1","pose":0,"relative":0,"periodic":0,"phase":"pre","start":6,"duration":480},{"controller":"BothArm1","type":"Point_Who_BothArm_Yous_1","pose":0,"relative":0,"periodic":0,"phase":"stroke","start":607,"duration":1048},{"controller":"BothArm1","type":"Object_Measure_WIdth_2","pose":0,"relative":0,"periodic":0,"phase":"pre","start":1764,"duration":546},{"controller":"BothArm1","type":"Object_Measure_WIdth_2","pose":0,"relative":0,"periodic":0,"phase":"stroke","start":2493,"duration":244},{"start":3106,"periodic":0,"controller":"BothArm1","phase":"relax","pose":0,"type":"Object_Measure_WIdth_2","duration":591,"relative":0},{"start":2493,"periodic":1,"controller":"Head1","phase":"stroke","pose":0,"type":"Head_Nod_3","duration":488,"relative":1},{"start":2981,"periodic":1,"controller":"Head1","phase":"stroke","pose":0,"type":"Head_Nod_3","duration":428,"relative":1},{"start":6,"periodic":1,"controller":"Breathing","phase":"stroke","pose":0,"type":"Breathing_3","duration":601,"relative":1},{"start":1331,"periodic":1,"controller":"Breathing","phase":"stroke","pose":0,"type":"Breathing_3","duration":979,"relative":1}],"face_schedule":[{"phase":"stroke","type":"Amused","start":246,"duration":361,"controller":"Face"},{"phase":"relax","type":"Amused","start":1439,"duration":325,"controller":"Face"},{"phase":"stroke","type":"Tender","start":1764,"duration":546,"controller":"Face"},{"phase":"relax","type":"Tender","start":3884,"duration":374,"controller":"Face"}],"blink_schedule":[],"command_schedule":[],"SpecialCommands":[],"audio_id":"ques_01_001","audio_schedule":[{"type":"start","time":0},{"type":"stop","time":4519}],"panel_schedule":[],"duration":4519,"name":"","Flag":{"Upper":2,"Rotate":2,"Head":2}},"Id":"0"};
+                               
+                socket.emit("operation", JSON.stringify(msg));
+            });
+
+            $("#form2-cs").submit(function (e) {
+                e.preventDefault();
+                var pos_h = Math.floor((Math.random() * 50 - 25));
+                var pos_w = Math.floor((Math.random() * 300 - 150));
+                var msg = {
+                    "Command": {
+                        "controller": "GazeHead",
+                        "command": "TurnOn",
+                        "position": [300, pos_w, 170 + pos_h],
+                        "velocity": 1.0,
+                        "return": 0
+                    }
+                };
+                socket.emit("operation", JSON.stringify(msg));
+            });
+
+            $("#form3-as").submit(function (e) {
+                e.preventDefault();                
+                var msg = {"Script":{"line":"지금까지 열여섯개의 부스에 대해서,간략하게 소개를 드렸습니다","gesture_schedule":[{"controller":"BothArm1","type":"Point_Who_BothArm_Yous_1","pose":0,"relative":0,"periodic":0,"phase":"pre","start":6,"duration":480},{"controller":"BothArm1","type":"Point_Who_BothArm_Yous_1","pose":0,"relative":0,"periodic":0,"phase":"stroke","start":607,"duration":1048},{"controller":"BothArm1","type":"Object_Measure_WIdth_2","pose":0,"relative":0,"periodic":0,"phase":"pre","start":1764,"duration":546},{"controller":"BothArm1","type":"Object_Measure_WIdth_2","pose":0,"relative":0,"periodic":0,"phase":"stroke","start":2493,"duration":244},{"start":3106,"periodic":0,"controller":"BothArm1","phase":"relax","pose":0,"type":"Object_Measure_WIdth_2","duration":591,"relative":0},{"start":2493,"periodic":1,"controller":"Head1","phase":"stroke","pose":0,"type":"Head_Nod_3","duration":488,"relative":1},{"start":2981,"periodic":1,"controller":"Head1","phase":"stroke","pose":0,"type":"Head_Nod_3","duration":428,"relative":1},{"start":6,"periodic":1,"controller":"Breathing","phase":"stroke","pose":0,"type":"Breathing_3","duration":601,"relative":1},{"start":1331,"periodic":1,"controller":"Breathing","phase":"stroke","pose":0,"type":"Breathing_3","duration":979,"relative":1}],"face_schedule":[{"phase":"stroke","type":"Amused","start":246,"duration":361,"controller":"Face"},{"phase":"relax","type":"Amused","start":1439,"duration":325,"controller":"Face"},{"phase":"stroke","type":"Tender","start":1764,"duration":546,"controller":"Face"},{"phase":"relax","type":"Tender","start":3884,"duration":374,"controller":"Face"}],"blink_schedule":[],"command_schedule":[],"SpecialCommands":[],"audio_id":"ques_01_001","audio_schedule":[{"type":"start","time":0},{"type":"stop","time":4519}],"panel_schedule":[],"duration":4519,"name":"","Flag":{"Upper":2,"Rotate":2,"Head":2}},"Id":"0"};
+                               
+                socket.emit("operation", JSON.stringify(msg));
+            });            
+
+            $("#form3-dual").submit(function (e) {
+                e.preventDefault();                
+                var msg = {"Dual":{"duration":2200,"dual_schedule":[{"controller":"GazeHead2","start":0,"command":"TurnOn","position":[300,40,170],"velocity":1},{"controller":"Head3","type":"Head_Nod_3","phase":"stroke","start":500,"duration":500,"pose":0,"periodic":1,"relative":1},{"controller":"Head3","type":"Head_Nod_3","phase":"stroke","start":1000,"duration":500,"pose":0,"periodic":1,"relative":1},{"controller":"GazeHead2","command":"TurnOff","start":1500,"position":[300,0,170],"velocity":1}]}};
+                               
+                socket.emit("operation", JSON.stringify(msg));
+            });
+
+            $("#form4-as1-1").submit(function (e) {
+                e.preventDefault();                
+                var msg = {"Script":{"line":"지금까지 열여섯개의 부스에 대해서,간략하게 소개를 드렸습니다","gesture_schedule":[{"controller":"BothArm1","type":"Point_Who_BothArm_Yous_1","pose":0,"relative":0,"periodic":0,"phase":"pre","start":6,"duration":480},{"controller":"BothArm1","type":"Point_Who_BothArm_Yous_1","pose":0,"relative":0,"periodic":0,"phase":"stroke","start":607,"duration":1048},{"controller":"BothArm1","type":"Object_Measure_WIdth_2","pose":0,"relative":0,"periodic":0,"phase":"pre","start":1764,"duration":546},{"controller":"BothArm1","type":"Object_Measure_WIdth_2","pose":0,"relative":0,"periodic":0,"phase":"stroke","start":2493,"duration":244},{"start":3106,"periodic":0,"controller":"BothArm1","phase":"relax","pose":0,"type":"Object_Measure_WIdth_2","duration":591,"relative":0},{"start":2493,"periodic":1,"controller":"Head1","phase":"stroke","pose":0,"type":"Head_Nod_3","duration":488,"relative":1},{"start":2981,"periodic":1,"controller":"Head1","phase":"stroke","pose":0,"type":"Head_Nod_3","duration":428,"relative":1},{"start":6,"periodic":1,"controller":"Breathing","phase":"stroke","pose":0,"type":"Breathing_3","duration":601,"relative":1},{"start":1331,"periodic":1,"controller":"Breathing","phase":"stroke","pose":0,"type":"Breathing_3","duration":979,"relative":1}],"face_schedule":[{"phase":"stroke","type":"Amused","start":246,"duration":361,"controller":"Face"},{"phase":"relax","type":"Amused","start":1439,"duration":325,"controller":"Face"},{"phase":"stroke","type":"Tender","start":1764,"duration":546,"controller":"Face"},{"phase":"relax","type":"Tender","start":3884,"duration":374,"controller":"Face"}],"blink_schedule":[],"command_schedule":[],"SpecialCommands":[],"audio_id":"ques_01_001","audio_schedule":[{"type":"start","time":0},{"type":"stop","time":4519}],"panel_schedule":[],"duration":4519,"name":"","Flag":{"Upper":2,"Rotate":2,"Head":2}},"Id":"0"};
+                               
+                socket.emit("operation", JSON.stringify(msg));
+            });
+
+            $("#form4-interrupt").submit(function (e) {
+                e.preventDefault();                
+                var msg = {
+                    "Interrupt": {
+                        "command": "Stop"
+                    }
+                };
+                               
+                socket.emit("operation", JSON.stringify(msg));
+            });
+
+            $("#form4-as2").submit(function (e) {
+                e.preventDefault();                
+                var msg = {"Id": "0", "Script": {"command_schedule": [], "face_schedule": [{"type": "Smile", "controller": "Face", "phase": "stroke", "start": 6, "duration": 460}, {"type": "Smile", "controller": "Face", "phase": "relax", "start": 6114, "duration": 187}], "gesture_schedule": [{"type": "Base_Basepose_3_2", "controller": "Base", "pose": 1, "relative": 0, "periodic": 0, "phase": "pre", "start": 6, "duration": 366}, {"type": "Base_Basepose_3_2", "controller": "Base", "pose": 1, "relative": 0, "periodic": 0, "phase": "relax", "start": 5748, "duration": 553}, {"type": "HandRel_ToR_3", "controller": "RArm2", "pose": 0, "relative": 1, "periodic": 0, "phase": "stroke", "start": 372, "duration": 798}, {"type": "HandRel_ToR_3", "controller": "RArm2", "pose": 0, "relative": 1, "periodic": 0, "phase": "relax", "start": 1915, "duration": 262}, {"type": "Number_Number_1", "controller": "RArm1", "pose": 0, "relative": 0, "periodic": 0, "phase": "pre", "start": 372, "duration": 798}, {"type": "Number_Number_1", "controller": "RArm1", "pose": 0, "relative": 0, "periodic": 0, "phase": "relax", "start": 1915, "duration": 262}, {"type": "Hand_BothUp_MakePose_2_2", "controller": "BothArm1", "pose": 1, "relative": 0, "periodic": 0, "phase": "pre", "start": 2046, "duration": 576}, {"type": "Hand_BothUp_MakePose_2_2", "controller": "BothArm1", "pose": 1, "relative": 0, "periodic": 0, "phase": "relax", "start": 4093, "duration": 359}, {"type": "BothHandRel_Spread", "controller": "BothArm2", "pose": 0, "relative": 1, "periodic": 0, "phase": "stroke", "start": 2622, "duration": 717}, {"type": "BothHandRel_Spread", "controller": "BothArm2", "pose": 0, "relative": 1, "periodic": 0, "phase": "relax", "start": 4093, "duration": 359}, {"type": "Head_Nod_2", "controller": "Head1", "pose": 0, "relative": 1, "periodic": 1, "phase": "stroke", "start": 1784, "duration": 659}, {"type": "Head_Nod_2", "controller": "Head1", "pose": 0, "relative": 1, "periodic": 1, "phase": "stroke", "start": 2443, "duration": 896}], "blink_schedule": [], "audio_schedule": [{"type": "start", "time": 0}, {"type": "stop", "time": 6373}], "name": "", "Flag": {"Rotate": 2, "Upper": 2, "Head": 2}, "audio_id": "notice_start_01_001", "duration": 6373, "SpecialCommands": [], "panel_schedule": [{"type": "AlarmOpen", "controller": "UI", "start": 560, "duration": "", "id": 1}, {"type": "AlarmOpen", "controller": "UI", "start": 3339, "duration": "", "id": 1}], "line": "\uc7a0\uc2dc \ud6c4 \uc624\ud6c4 \ud55c\uc2dc\ubd80\ud130,\uc778\uacf5\uc9c0\ub2a5 \uc5f0\uad6c\uc6d0\uc758,\uc774\ucc9c\uc2ed\ud314\ub144 \uac00\uc744 \ub370\ubaa8\ub370\uc774 \ud589\uc0ac\uac00 \uc2dc\uc791\ub429\ub2c8\ub2e4"}};                               
+                
+                socket.emit("operation", JSON.stringify(msg));
+            });
+
+            $("#form4-restore").submit(function (e) {
+                e.preventDefault();                
+                var msg ={"Id": "0", "Script": {"command_schedule": [], "face_schedule": [], "gesture_schedule": [], "blink_schedule": [], "audio_schedule": [], "name": "", "Flag": {"Rotate": 2, "Upper": 2, "Head": 2}, "audio_id": "", "duration": 3000, "SpecialCommands": [{ "command": "restore", "id": 0 }], "panel_schedule": [], "line": ""}};
+                               
+                socket.emit("operation", JSON.stringify(msg));
+            });
+
+            $("#form4-as1-2").submit(function (e) {
+                e.preventDefault();                
+                var msg = {"Script": {"gesture_schedule": [{"start": 0, "periodic": 0, "controller": "RArm1", "phase": "pre", "pose": 0, "type": "Point_Who_RArm_Me_1", "duration": 406, "relative": 0}, {"start": 406, "periodic": 0, "controller": "RArm1", "phase": "stroke", "pose": 0, "type": "Point_Who_RArm_Me_1", "duration": 201, "relative": 0}, {"start": 1295, "periodic": 0, "controller": "RArm1", "phase": "relax", "pose": 0, "type": "Point_Who_RArm_Me_1", "duration": 604, "relative": 0}, {"start": 0, "periodic": 1, "controller": "Breathing", "phase": "stroke", "pose": 0, "type": "Breathing_3", "duration": 607, "relative": 1}, {"start": 607, "periodic": 1, "controller": "Breathing", "phase": "stroke", "pose": 0, "type": "Breathing_3", "duration": 363, "relative": 1}], "audio_id": "ques_01_002", "Flag": {"Head": 2, "Upper": 2, "Rotate": 2}, "line": "\uc81c \uc124\uba85\uc740 \ub05d\ub0ac\uad6c\uc694", "duration": 1967, "command_schedule": [], "panel_schedule": [], "SpecialCommands": [], "face_schedule": [{"phase": "stroke", "type": "Hopeful", "start": 0, "duration": 406, "controller": "Face"}], "audio_schedule": [{"type": "start", "time": 400}, {"type": "stop", "time": 1967}], "blink_schedule": [], "name": ""}, "Id": "0"};
+                               
+                socket.emit("operation", JSON.stringify(msg));
+            });
+
+
+            function makeRandomName() {
+                var name = "";
+                var possible = "abcdefghijklmnopqrstuvwxyz";
+                for (var i = 0; i < 3; i++) {
+                    name += possible.charAt(Math.floor(Math.random() * possible.length));
+                }
+                return name;
+            }
+        });
+    </script>
+</body>
+
+</html>

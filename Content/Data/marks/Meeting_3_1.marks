@@ -1,0 +1,25 @@
+{"time":0,"type":"sentence","start":0,"end":27,"value":"약속 하신 분인가요?"}
+{"time":6,"type":"word","start":0,"end":6,"value":"약속"}
+{"time":6,"type":"viseme","value":"i"}
+{"time":64,"type":"viseme","value":"a"}
+{"time":128,"type":"viseme","value":"k"}
+{"time":168,"type":"viseme","value":"s"}
+{"time":250,"type":"viseme","value":"o"}
+{"time":310,"type":"viseme","value":"k"}
+{"time":352,"type":"word","start":7,"end":13,"value":"하신"}
+{"time":352,"type":"viseme","value":"k"}
+{"time":427,"type":"viseme","value":"a"}
+{"time":479,"type":"viseme","value":"s"}
+{"time":550,"type":"viseme","value":"i"}
+{"time":580,"type":"viseme","value":"t"}
+{"time":655,"type":"word","start":14,"end":26,"value":"분인가요"}
+{"time":655,"type":"viseme","value":"p"}
+{"time":738,"type":"viseme","value":"u"}
+{"time":786,"type":"viseme","value":"t"}
+{"time":845,"type":"viseme","value":"i"}
+{"time":928,"type":"viseme","value":"k"}
+{"time":988,"type":"viseme","value":"k"}
+{"time":1029,"type":"viseme","value":"a"}
+{"time":1120,"type":"viseme","value":"i"}
+{"time":1190,"type":"viseme","value":"o"}
+{"time":1408,"type":"viseme","value":"sil"}

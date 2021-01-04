@@ -1,0 +1,1142 @@
+[
+	{
+		"type": "browser_panel",
+		"name": "ARINOON_Cam",
+		"function": [
+			"Open",
+			"ChangeURL",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "AIRI_Logo",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "MainPanel1",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "MainPanel2",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "MainPanel3",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "ClockPanel",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "singletext_panel",
+		"name": "NonWorkingHour",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "WorkingHour",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "VisitPurpose",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "YesorNo",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "ChoosePerson",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "SmallMapImage",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "BigMapImage",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "ContentsWindow",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "PlayStopWindow",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "WeatherPanel",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "AIRIIntroducePanel",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "HyundaiLogo",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "HanwhaLogo",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "KTLogo",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "LGLogo",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "NaverLogo",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "SamsungLogo",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "SKTLogo",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "DemoPoster_2017s",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "DemoPoster_2017f",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "DemoPoster_2018s",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "DemoPoster_2018f",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "DigitalHuman",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "ManagementRoom",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "ETC",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "ChoYoungHwan",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "singletext_panel",
+		"name": "SText_3",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "PlayorStop",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "OpenDoor",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "Cancle",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "singletext_panel",
+		"name": "SText_4",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "KimJinHyoung",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "Intro_ARINONE",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "weather_panel",
+		"name": "WeatherTemp",
+		"function": [
+			"Open",
+			"ChangeType",
+			"Close"
+		],
+		"param_num": [ 1, 1, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Icon,Temp",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "HamJongMin",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "weather_panel",
+		"name": "WeatherIcon",
+		"function": [
+			"Open",
+			"ChangeType",
+			"Close"
+		],
+		"param_num": [ 1, 1, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Icon,Temp",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "clock_panel",
+		"name": "Time",
+		"function": [
+			"Open",
+			"ChangeType",
+			"Close"
+		],
+		"param_num": [ 1, 1, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"HM,HMKor,AMPM,AMPMKor,HMS,HMSKor,Date,DateKor",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "KimDaeSeong",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "singletext_panel",
+		"name": "Topic",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "singletext_panel",
+		"name": "AIRIIntroText1",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "singletext_panel",
+		"name": "AIRIIntroText3",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "singletext_panel",
+		"name": "AIRIIntroText2",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "singletext_panel",
+		"name": "AIRIIntroText4",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "singletext_panel",
+		"name": "AIRIIntroTitleText",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "KimSungPyo",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "clock_panel",
+		"name": "Date",
+		"function": [
+			"Open",
+			"ChangeType",
+			"Close"
+		],
+		"param_num": [ 1, 1, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"HM,HMKor,AMPM,AMPMKor,HMS,HMSKor,Date,DateKor",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "ParkSangEun",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "YesButton",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "JangYounSeok",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "Intro_Airi",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "GeneralAffairs",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "NoButton",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "ETCWorker",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "MeetPerson",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "Picture",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "SmallMapButton",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "Meeting",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "Reset",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "ModuleImage",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "Call",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "singletext_panel",
+		"name": "ChoosePersonTopic",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "AISpeakers",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "CallPerson",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "Delivery",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "button",
+		"name": "BigMapButton",
+		"function": [
+			"Open",
+			"ChangeText",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Typing",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "AmazonPollyHighlight",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "ARINOONHighlight",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "ARINCOREHighlight",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "ARINBODYHighlight",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	},
+	{
+		"type": "image_panel",
+		"name": "ARINQWIHighlight",
+		"function": [
+			"Open",
+			"ChangeImage",
+			"Close"
+		],
+		"param_num": [ 1, 2, 1 ],
+		"EffectStyle": [
+			"FadeIn",
+			"Horizontal,Vertical",
+			"FadeOut"
+		]
+	}
+]

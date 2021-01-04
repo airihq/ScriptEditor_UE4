@@ -1,0 +1,16 @@
+{"time":0,"type":"sentence","start":0,"end":15,"value":"박대영님은"}
+{"time":6,"type":"word","start":0,"end":15,"value":"박대영님은"}
+{"time":6,"type":"viseme","value":"p"}
+{"time":65,"type":"viseme","value":"a"}
+{"time":137,"type":"viseme","value":"k"}
+{"time":214,"type":"viseme","value":"t"}
+{"time":280,"type":"viseme","value":"e"}
+{"time":347,"type":"viseme","value":"i"}
+{"time":387,"type":"viseme","value":"@"}
+{"time":439,"type":"viseme","value":"k"}
+{"time":527,"type":"viseme","value":"t"}
+{"time":593,"type":"viseme","value":"i"}
+{"time":644,"type":"viseme","value":"p"}
+{"time":708,"type":"viseme","value":"i"}
+{"time":777,"type":"viseme","value":"t"}
+{"time":983,"type":"viseme","value":"sil"}

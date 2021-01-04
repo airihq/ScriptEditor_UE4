@@ -1,0 +1,27 @@
+{"time":0,"type":"sentence","start":0,"end":29,"value":"행복한 저녁 보내시고"}
+{"time":6,"type":"word","start":0,"end":9,"value":"행복한"}
+{"time":6,"type":"viseme","value":"k"}
+{"time":65,"type":"viseme","value":"e"}
+{"time":98,"type":"viseme","value":"k"}
+{"time":189,"type":"viseme","value":"p"}
+{"time":228,"type":"viseme","value":"o"}
+{"time":299,"type":"viseme","value":"k"}
+{"time":397,"type":"viseme","value":"a"}
+{"time":463,"type":"viseme","value":"t"}
+{"time":513,"type":"word","start":10,"end":16,"value":"저녁"}
+{"time":513,"type":"viseme","value":"J"}
+{"time":591,"type":"viseme","value":"@"}
+{"time":678,"type":"viseme","value":"t"}
+{"time":730,"type":"viseme","value":"i"}
+{"time":774,"type":"viseme","value":"@"}
+{"time":834,"type":"viseme","value":"k"}
+{"time":900,"type":"word","start":17,"end":29,"value":"보내시고"}
+{"time":900,"type":"viseme","value":"p"}
+{"time":963,"type":"viseme","value":"o"}
+{"time":1023,"type":"viseme","value":"t"}
+{"time":1082,"type":"viseme","value":"e"}
+{"time":1133,"type":"viseme","value":"s"}
+{"time":1241,"type":"viseme","value":"i"}
+{"time":1288,"type":"viseme","value":"k"}
+{"time":1361,"type":"viseme","value":"o"}
+{"time":1686,"type":"viseme","value":"sil"}

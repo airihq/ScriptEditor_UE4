@@ -1,0 +1,17 @@
+{"time":0,"type":"sentence","start":0,"end":19,"value":"약속하셨어요?"}
+{"time":6,"type":"word","start":0,"end":18,"value":"약속하셨어요"}
+{"time":6,"type":"viseme","value":"i"}
+{"time":56,"type":"viseme","value":"a"}
+{"time":125,"type":"viseme","value":"k"}
+{"time":186,"type":"viseme","value":"s"}
+{"time":283,"type":"viseme","value":"o"}
+{"time":341,"type":"viseme","value":"k"}
+{"time":434,"type":"viseme","value":"a"}
+{"time":473,"type":"viseme","value":"s"}
+{"time":547,"type":"viseme","value":"i"}
+{"time":573,"type":"viseme","value":"@"}
+{"time":606,"type":"viseme","value":"s"}
+{"time":744,"type":"viseme","value":"@"}
+{"time":817,"type":"viseme","value":"i"}
+{"time":908,"type":"viseme","value":"o"}
+{"time":1119,"type":"viseme","value":"sil"}

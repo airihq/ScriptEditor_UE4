@@ -1,0 +1,33 @@
+{"time":0,"type":"sentence","start":0,"end":46,"value":"마이크를 터치하고 말씀해 보세요."}
+{"time":6,"type":"word","start":0,"end":12,"value":"마이크를"}
+{"time":6,"type":"viseme","value":"p"}
+{"time":49,"type":"viseme","value":"a"}
+{"time":168,"type":"viseme","value":"i"}
+{"time":248,"type":"viseme","value":"k"}
+{"time":360,"type":"viseme","value":"i"}
+{"time":408,"type":"viseme","value":"t"}
+{"time":449,"type":"viseme","value":"i"}
+{"time":479,"type":"viseme","value":"t"}
+{"time":538,"type":"word","start":13,"end":25,"value":"터치하고"}
+{"time":538,"type":"viseme","value":"t"}
+{"time":619,"type":"viseme","value":"@"}
+{"time":673,"type":"viseme","value":"J"}
+{"time":801,"type":"viseme","value":"i"}
+{"time":840,"type":"viseme","value":"a"}
+{"time":931,"type":"viseme","value":"k"}
+{"time":999,"type":"viseme","value":"o"}
+{"time":1057,"type":"word","start":26,"end":45,"value":"말씀해 보세요"}
+{"time":1057,"type":"viseme","value":"p"}
+{"time":1134,"type":"viseme","value":"a"}
+{"time":1196,"type":"viseme","value":"t"}
+{"time":1246,"type":"viseme","value":"s"}
+{"time":1357,"type":"viseme","value":"i"}
+{"time":1388,"type":"viseme","value":"p"}
+{"time":1457,"type":"viseme","value":"e"}
+{"time":1539,"type":"viseme","value":"p"}
+{"time":1597,"type":"viseme","value":"o"}
+{"time":1663,"type":"viseme","value":"s"}
+{"time":1757,"type":"viseme","value":"e"}
+{"time":1892,"type":"viseme","value":"i"}
+{"time":2213,"type":"viseme","value":"o"}
+{"time":2333,"type":"viseme","value":"sil"}

@@ -1,0 +1,25 @@
+{"time":0,"type":"sentence","start":0,"end":27,"value":"원장님, 오셨습니까?"}
+{"time":6,"type":"word","start":0,"end":9,"value":"원장님"}
+{"time":6,"type":"viseme","value":"u"}
+{"time":63,"type":"viseme","value":"@"}
+{"time":113,"type":"viseme","value":"t"}
+{"time":192,"type":"viseme","value":"J"}
+{"time":245,"type":"viseme","value":"a"}
+{"time":317,"type":"viseme","value":"k"}
+{"time":372,"type":"viseme","value":"t"}
+{"time":443,"type":"viseme","value":"i"}
+{"time":524,"type":"viseme","value":"p"}
+{"time":707,"type":"viseme","value":"sil"}
+{"time":900,"type":"word","start":11,"end":26,"value":"오셨습니까"}
+{"time":900,"type":"viseme","value":"o"}
+{"time":1005,"type":"viseme","value":"s"}
+{"time":1072,"type":"viseme","value":"i"}
+{"time":1107,"type":"viseme","value":"@"}
+{"time":1135,"type":"viseme","value":"s"}
+{"time":1248,"type":"viseme","value":"i"}
+{"time":1295,"type":"viseme","value":"p"}
+{"time":1336,"type":"viseme","value":"t"}
+{"time":1381,"type":"viseme","value":"i"}
+{"time":1430,"type":"viseme","value":"k"}
+{"time":1569,"type":"viseme","value":"a"}
+{"time":1823,"type":"viseme","value":"sil"}

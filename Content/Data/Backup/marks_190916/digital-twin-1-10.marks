@@ -1,0 +1,19 @@
+{"time":0,"type":"sentence","start":0,"end":22,"value":"비교하여 보시면"}
+{"time":6,"type":"word","start":0,"end":22,"value":"비교하여 보시면"}
+{"time":6,"type":"viseme","value":"p"}
+{"time":65,"type":"viseme","value":"i"}
+{"time":159,"type":"viseme","value":"k"}
+{"time":213,"type":"viseme","value":"i"}
+{"time":248,"type":"viseme","value":"o"}
+{"time":335,"type":"viseme","value":"a"}
+{"time":441,"type":"viseme","value":"i"}
+{"time":503,"type":"viseme","value":"@"}
+{"time":556,"type":"viseme","value":"p"}
+{"time":625,"type":"viseme","value":"o"}
+{"time":695,"type":"viseme","value":"s"}
+{"time":797,"type":"viseme","value":"i"}
+{"time":841,"type":"viseme","value":"p"}
+{"time":892,"type":"viseme","value":"i"}
+{"time":955,"type":"viseme","value":"@"}
+{"time":1002,"type":"viseme","value":"t"}
+{"time":1180,"type":"viseme","value":"sil"}

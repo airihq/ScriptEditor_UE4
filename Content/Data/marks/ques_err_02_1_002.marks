@@ -1,0 +1,27 @@
+{"time":0,"type":"sentence","start":0,"end":34,"value":"제가 아직 좀 부족하네요."}
+{"time":6,"type":"word","start":0,"end":6,"value":"제가"}
+{"time":6,"type":"viseme","value":"J"}
+{"time":84,"type":"viseme","value":"e"}
+{"time":182,"type":"viseme","value":"k"}
+{"time":250,"type":"viseme","value":"a"}
+{"time":318,"type":"word","start":7,"end":13,"value":"아직"}
+{"time":318,"type":"viseme","value":"a"}
+{"time":497,"type":"viseme","value":"J"}
+{"time":581,"type":"viseme","value":"i"}
+{"time":647,"type":"viseme","value":"k"}
+{"time":715,"type":"word","start":14,"end":17,"value":"좀"}
+{"time":715,"type":"viseme","value":"J"}
+{"time":773,"type":"viseme","value":"o"}
+{"time":841,"type":"viseme","value":"p"}
+{"time":919,"type":"word","start":18,"end":33,"value":"부족하네요"}
+{"time":919,"type":"viseme","value":"p"}
+{"time":1010,"type":"viseme","value":"u"}
+{"time":1062,"type":"viseme","value":"J"}
+{"time":1135,"type":"viseme","value":"o"}
+{"time":1193,"type":"viseme","value":"k"}
+{"time":1305,"type":"viseme","value":"a"}
+{"time":1358,"type":"viseme","value":"t"}
+{"time":1400,"type":"viseme","value":"e"}
+{"time":1540,"type":"viseme","value":"i"}
+{"time":1880,"type":"viseme","value":"o"}
+{"time":1937,"type":"viseme","value":"sil"}

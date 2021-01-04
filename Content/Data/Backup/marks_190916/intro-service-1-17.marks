@@ -1,0 +1,35 @@
+{"time":0,"type":"sentence","start":0,"end":49,"value":"미니 미디어폴이라는 서비스 입니다."}
+{"time":6,"type":"word","start":0,"end":6,"value":"미니"}
+{"time":6,"type":"viseme","value":"p"}
+{"time":44,"type":"viseme","value":"i"}
+{"time":156,"type":"viseme","value":"t"}
+{"time":215,"type":"viseme","value":"i"}
+{"time":335,"type":"word","start":7,"end":28,"value":"미디어폴이라는"}
+{"time":335,"type":"viseme","value":"p"}
+{"time":394,"type":"viseme","value":"i"}
+{"time":473,"type":"viseme","value":"t"}
+{"time":524,"type":"viseme","value":"i"}
+{"time":622,"type":"viseme","value":"@"}
+{"time":697,"type":"viseme","value":"p"}
+{"time":791,"type":"viseme","value":"o"}
+{"time":833,"type":"viseme","value":"t"}
+{"time":877,"type":"viseme","value":"i"}
+{"time":948,"type":"viseme","value":"t"}
+{"time":997,"type":"viseme","value":"a"}
+{"time":1062,"type":"viseme","value":"t"}
+{"time":1124,"type":"viseme","value":"i"}
+{"time":1165,"type":"viseme","value":"t"}
+{"time":1202,"type":"word","start":29,"end":48,"value":"서비스 입니다"}
+{"time":1202,"type":"viseme","value":"s"}
+{"time":1315,"type":"viseme","value":"@"}
+{"time":1378,"type":"viseme","value":"p"}
+{"time":1430,"type":"viseme","value":"i"}
+{"time":1468,"type":"viseme","value":"s"}
+{"time":1579,"type":"viseme","value":"i"}
+{"time":1618,"type":"viseme","value":"i"}
+{"time":1655,"type":"viseme","value":"p"}
+{"time":1725,"type":"viseme","value":"t"}
+{"time":1795,"type":"viseme","value":"i"}
+{"time":1857,"type":"viseme","value":"t"}
+{"time":1945,"type":"viseme","value":"a"}
+{"time":2273,"type":"viseme","value":"sil"}

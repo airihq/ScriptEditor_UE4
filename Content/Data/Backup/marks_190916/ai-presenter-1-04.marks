@@ -1,0 +1,26 @@
+{"time":0,"type":"sentence","start":0,"end":42,"value":"에이아이 안내원 아이리입니다."}
+{"time":6,"type":"word","start":0,"end":12,"value":"에이아이"}
+{"time":6,"type":"viseme","value":"e"}
+{"time":106,"type":"viseme","value":"i"}
+{"time":227,"type":"viseme","value":"a"}
+{"time":357,"type":"viseme","value":"i"}
+{"time":517,"type":"word","start":13,"end":22,"value":"안내원"}
+{"time":517,"type":"viseme","value":"a"}
+{"time":635,"type":"viseme","value":"t"}
+{"time":715,"type":"viseme","value":"t"}
+{"time":770,"type":"viseme","value":"e"}
+{"time":858,"type":"viseme","value":"u"}
+{"time":933,"type":"viseme","value":"@"}
+{"time":971,"type":"viseme","value":"t"}
+{"time":1032,"type":"word","start":23,"end":41,"value":"아이리입니다"}
+{"time":1032,"type":"viseme","value":"a"}
+{"time":1120,"type":"viseme","value":"i"}
+{"time":1192,"type":"viseme","value":"t"}
+{"time":1238,"type":"viseme","value":"i"}
+{"time":1308,"type":"viseme","value":"i"}
+{"time":1369,"type":"viseme","value":"p"}
+{"time":1427,"type":"viseme","value":"t"}
+{"time":1468,"type":"viseme","value":"i"}
+{"time":1530,"type":"viseme","value":"t"}
+{"time":1616,"type":"viseme","value":"a"}
+{"time":1900,"type":"viseme","value":"sil"}

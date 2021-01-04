@@ -1,0 +1,25 @@
+{"time":0,"type":"sentence","start":0,"end":33,"value":"소개해 드리는 것입니다."}
+{"time":6,"type":"word","start":0,"end":19,"value":"소개해 드리는"}
+{"time":6,"type":"viseme","value":"s"}
+{"time":106,"type":"viseme","value":"o"}
+{"time":199,"type":"viseme","value":"k"}
+{"time":262,"type":"viseme","value":"e"}
+{"time":339,"type":"viseme","value":"e"}
+{"time":414,"type":"viseme","value":"t"}
+{"time":473,"type":"viseme","value":"i"}
+{"time":509,"type":"viseme","value":"t"}
+{"time":550,"type":"viseme","value":"i"}
+{"time":619,"type":"viseme","value":"t"}
+{"time":658,"type":"viseme","value":"i"}
+{"time":707,"type":"viseme","value":"t"}
+{"time":779,"type":"word","start":20,"end":32,"value":"것입니다"}
+{"time":779,"type":"viseme","value":"k"}
+{"time":821,"type":"viseme","value":"@"}
+{"time":883,"type":"viseme","value":"s"}
+{"time":981,"type":"viseme","value":"i"}
+{"time":1014,"type":"viseme","value":"p"}
+{"time":1053,"type":"viseme","value":"t"}
+{"time":1104,"type":"viseme","value":"i"}
+{"time":1151,"type":"viseme","value":"t"}
+{"time":1256,"type":"viseme","value":"a"}
+{"time":1544,"type":"viseme","value":"sil"}

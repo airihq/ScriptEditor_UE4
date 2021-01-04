@@ -1,0 +1,6 @@
+{
+	"ScenarioPath": "/Data/Scenario/animation_museum.db",
+	"FavoritePath": "/Data/Scenario/ScriptList_Sindorim.db",
+	"socketio_server_address": "http://localhost:3000",
+	"socketio_server_namespace": "/"
+}

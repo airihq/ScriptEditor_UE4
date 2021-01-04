@@ -1,0 +1,26 @@
+{"time":0,"type":"sentence","start":0,"end":33,"value":"저에 대해 궁금하시군요?"}
+{"time":6,"type":"word","start":0,"end":6,"value":"저에"}
+{"time":6,"type":"viseme","value":"J"}
+{"time":84,"type":"viseme","value":"@"}
+{"time":181,"type":"viseme","value":"e"}
+{"time":257,"type":"word","start":7,"end":13,"value":"대해"}
+{"time":257,"type":"viseme","value":"t"}
+{"time":313,"type":"viseme","value":"e"}
+{"time":374,"type":"viseme","value":"e"}
+{"time":523,"type":"word","start":14,"end":32,"value":"궁금하시군요"}
+{"time":523,"type":"viseme","value":"k"}
+{"time":621,"type":"viseme","value":"u"}
+{"time":655,"type":"viseme","value":"k"}
+{"time":756,"type":"viseme","value":"k"}
+{"time":798,"type":"viseme","value":"i"}
+{"time":847,"type":"viseme","value":"p"}
+{"time":922,"type":"viseme","value":"a"}
+{"time":969,"type":"viseme","value":"s"}
+{"time":1062,"type":"viseme","value":"i"}
+{"time":1112,"type":"viseme","value":"k"}
+{"time":1168,"type":"viseme","value":"u"}
+{"time":1207,"type":"viseme","value":"t"}
+{"time":1285,"type":"viseme","value":"t"}
+{"time":1344,"type":"viseme","value":"i"}
+{"time":1426,"type":"viseme","value":"o"}
+{"time":1631,"type":"viseme","value":"sil"}

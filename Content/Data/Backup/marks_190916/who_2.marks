@@ -1,0 +1,46 @@
+{"time":0,"type":"sentence","start":0,"end":59,"value":"어느 분을 만나러 오셨는지 말씀해 주십시오"}
+{"time":6,"type":"word","start":0,"end":6,"value":"어느"}
+{"time":6,"type":"viseme","value":"@"}
+{"time":145,"type":"viseme","value":"t"}
+{"time":194,"type":"viseme","value":"i"}
+{"time":266,"type":"word","start":7,"end":13,"value":"분을"}
+{"time":266,"type":"viseme","value":"p"}
+{"time":346,"type":"viseme","value":"u"}
+{"time":406,"type":"viseme","value":"t"}
+{"time":472,"type":"viseme","value":"i"}
+{"time":512,"type":"viseme","value":"t"}
+{"time":568,"type":"word","start":14,"end":36,"value":"만나러 오셨는지"}
+{"time":568,"type":"viseme","value":"p"}
+{"time":631,"type":"viseme","value":"a"}
+{"time":693,"type":"viseme","value":"t"}
+{"time":744,"type":"viseme","value":"t"}
+{"time":805,"type":"viseme","value":"a"}
+{"time":876,"type":"viseme","value":"t"}
+{"time":921,"type":"viseme","value":"@"}
+{"time":947,"type":"viseme","value":"o"}
+{"time":1086,"type":"viseme","value":"s"}
+{"time":1178,"type":"viseme","value":"i"}
+{"time":1206,"type":"viseme","value":"@"}
+{"time":1238,"type":"viseme","value":"t"}
+{"time":1282,"type":"viseme","value":"t"}
+{"time":1312,"type":"viseme","value":"i"}
+{"time":1383,"type":"viseme","value":"t"}
+{"time":1450,"type":"viseme","value":"J"}
+{"time":1532,"type":"viseme","value":"i"}
+{"time":1576,"type":"word","start":37,"end":59,"value":"말씀해 주십시오"}
+{"time":1576,"type":"viseme","value":"p"}
+{"time":1636,"type":"viseme","value":"a"}
+{"time":1692,"type":"viseme","value":"t"}
+{"time":1741,"type":"viseme","value":"s"}
+{"time":1870,"type":"viseme","value":"i"}
+{"time":1901,"type":"viseme","value":"p"}
+{"time":1963,"type":"viseme","value":"e"}
+{"time":2043,"type":"viseme","value":"J"}
+{"time":2128,"type":"viseme","value":"u"}
+{"time":2169,"type":"viseme","value":"s"}
+{"time":2248,"type":"viseme","value":"i"}
+{"time":2280,"type":"viseme","value":"p"}
+{"time":2319,"type":"viseme","value":"s"}
+{"time":2464,"type":"viseme","value":"i"}
+{"time":2530,"type":"viseme","value":"o"}
+{"time":2869,"type":"viseme","value":"sil"}

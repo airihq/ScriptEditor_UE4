@@ -1,0 +1,19 @@
+{"time":0,"type":"sentence","start":0,"end":23,"value":"회의 있으신가요?"}
+{"time":6,"type":"word","start":0,"end":6,"value":"회의"}
+{"time":6,"type":"viseme","value":"k"}
+{"time":45,"type":"viseme","value":"u"}
+{"time":98,"type":"viseme","value":"e"}
+{"time":180,"type":"viseme","value":"i"}
+{"time":209,"type":"viseme","value":"i"}
+{"time":300,"type":"word","start":7,"end":22,"value":"있으신가요"}
+{"time":300,"type":"viseme","value":"i"}
+{"time":379,"type":"viseme","value":"s"}
+{"time":497,"type":"viseme","value":"i"}
+{"time":545,"type":"viseme","value":"s"}
+{"time":625,"type":"viseme","value":"i"}
+{"time":665,"type":"viseme","value":"k"}
+{"time":730,"type":"viseme","value":"k"}
+{"time":775,"type":"viseme","value":"a"}
+{"time":863,"type":"viseme","value":"i"}
+{"time":923,"type":"viseme","value":"o"}
+{"time":1136,"type":"viseme","value":"sil"}

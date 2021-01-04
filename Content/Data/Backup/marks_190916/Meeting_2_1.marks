@@ -1,0 +1,26 @@
+{"time":0,"type":"sentence","start":0,"end":33,"value":"미팅으로 오신 분인가요?"}
+{"time":6,"type":"word","start":0,"end":12,"value":"미팅으로"}
+{"time":6,"type":"viseme","value":"p"}
+{"time":44,"type":"viseme","value":"i"}
+{"time":126,"type":"viseme","value":"t"}
+{"time":214,"type":"viseme","value":"i"}
+{"time":272,"type":"viseme","value":"k"}
+{"time":338,"type":"viseme","value":"i"}
+{"time":377,"type":"viseme","value":"t"}
+{"time":420,"type":"viseme","value":"o"}
+{"time":493,"type":"word","start":13,"end":19,"value":"오신"}
+{"time":493,"type":"viseme","value":"o"}
+{"time":594,"type":"viseme","value":"s"}
+{"time":670,"type":"viseme","value":"i"}
+{"time":709,"type":"viseme","value":"t"}
+{"time":771,"type":"word","start":20,"end":32,"value":"분인가요"}
+{"time":771,"type":"viseme","value":"p"}
+{"time":843,"type":"viseme","value":"u"}
+{"time":891,"type":"viseme","value":"t"}
+{"time":950,"type":"viseme","value":"i"}
+{"time":1033,"type":"viseme","value":"k"}
+{"time":1093,"type":"viseme","value":"k"}
+{"time":1134,"type":"viseme","value":"a"}
+{"time":1225,"type":"viseme","value":"i"}
+{"time":1295,"type":"viseme","value":"o"}
+{"time":1514,"type":"viseme","value":"sil"}

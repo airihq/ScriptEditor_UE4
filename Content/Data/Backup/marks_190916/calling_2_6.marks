@@ -1,0 +1,17 @@
+{"time":0,"type":"sentence","start":0,"end":15,"value":"김동엽님은"}
+{"time":6,"type":"word","start":0,"end":15,"value":"김동엽님은"}
+{"time":6,"type":"viseme","value":"k"}
+{"time":65,"type":"viseme","value":"i"}
+{"time":120,"type":"viseme","value":"p"}
+{"time":209,"type":"viseme","value":"t"}
+{"time":253,"type":"viseme","value":"o"}
+{"time":310,"type":"viseme","value":"k"}
+{"time":390,"type":"viseme","value":"i"}
+{"time":435,"type":"viseme","value":"@"}
+{"time":475,"type":"viseme","value":"p"}
+{"time":564,"type":"viseme","value":"t"}
+{"time":618,"type":"viseme","value":"i"}
+{"time":670,"type":"viseme","value":"p"}
+{"time":733,"type":"viseme","value":"i"}
+{"time":791,"type":"viseme","value":"t"}
+{"time":1001,"type":"viseme","value":"sil"}

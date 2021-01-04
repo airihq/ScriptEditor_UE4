@@ -1,0 +1,18 @@
+{"time":0,"type":"sentence","start":0,"end":23,"value":"어떻게 오셨나요?"}
+{"time":6,"type":"word","start":0,"end":9,"value":"어떻게"}
+{"time":6,"type":"viseme","value":"@"}
+{"time":112,"type":"viseme","value":"t"}
+{"time":214,"type":"viseme","value":"@"}
+{"time":266,"type":"viseme","value":"k"}
+{"time":372,"type":"viseme","value":"e"}
+{"time":408,"type":"word","start":10,"end":22,"value":"오셨나요"}
+{"time":408,"type":"viseme","value":"o"}
+{"time":554,"type":"viseme","value":"s"}
+{"time":620,"type":"viseme","value":"i"}
+{"time":652,"type":"viseme","value":"@"}
+{"time":691,"type":"viseme","value":"t"}
+{"time":737,"type":"viseme","value":"t"}
+{"time":817,"type":"viseme","value":"a"}
+{"time":916,"type":"viseme","value":"i"}
+{"time":989,"type":"viseme","value":"o"}
+{"time":1229,"type":"viseme","value":"sil"}

@@ -1,0 +1,24 @@
+{"time":0,"type":"sentence","start":0,"end":24,"value":"본 전시 기간 동안"}
+{"time":6,"type":"word","start":0,"end":3,"value":"본"}
+{"time":6,"type":"viseme","value":"p"}
+{"time":49,"type":"viseme","value":"o"}
+{"time":137,"type":"viseme","value":"t"}
+{"time":192,"type":"word","start":4,"end":10,"value":"전시"}
+{"time":192,"type":"viseme","value":"J"}
+{"time":241,"type":"viseme","value":"@"}
+{"time":318,"type":"viseme","value":"t"}
+{"time":393,"type":"viseme","value":"s"}
+{"time":508,"type":"viseme","value":"i"}
+{"time":578,"type":"word","start":11,"end":17,"value":"기간"}
+{"time":578,"type":"viseme","value":"k"}
+{"time":675,"type":"viseme","value":"i"}
+{"time":733,"type":"viseme","value":"k"}
+{"time":797,"type":"viseme","value":"a"}
+{"time":879,"type":"viseme","value":"t"}
+{"time":977,"type":"word","start":18,"end":24,"value":"동안"}
+{"time":977,"type":"viseme","value":"t"}
+{"time":1020,"type":"viseme","value":"o"}
+{"time":1081,"type":"viseme","value":"k"}
+{"time":1189,"type":"viseme","value":"a"}
+{"time":1282,"type":"viseme","value":"t"}
+{"time":1453,"type":"viseme","value":"sil"}

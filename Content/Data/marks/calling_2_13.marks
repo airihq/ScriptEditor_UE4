@@ -1,0 +1,17 @@
+{"time":0,"type":"sentence","start":0,"end":15,"value":"서경진님은"}
+{"time":6,"type":"word","start":0,"end":15,"value":"서경진님은"}
+{"time":6,"type":"viseme","value":"s"}
+{"time":108,"type":"viseme","value":"@"}
+{"time":165,"type":"viseme","value":"k"}
+{"time":235,"type":"viseme","value":"i"}
+{"time":287,"type":"viseme","value":"@"}
+{"time":337,"type":"viseme","value":"k"}
+{"time":401,"type":"viseme","value":"J"}
+{"time":464,"type":"viseme","value":"i"}
+{"time":505,"type":"viseme","value":"t"}
+{"time":575,"type":"viseme","value":"t"}
+{"time":641,"type":"viseme","value":"i"}
+{"time":693,"type":"viseme","value":"p"}
+{"time":756,"type":"viseme","value":"i"}
+{"time":814,"type":"viseme","value":"t"}
+{"time":1024,"type":"viseme","value":"sil"}

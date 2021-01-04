@@ -1,0 +1,16 @@
+{"time":0,"type":"sentence","start":0,"end":16,"value":"반갑습니다."}
+{"time":6,"type":"word","start":0,"end":15,"value":"반갑습니다"}
+{"time":6,"type":"viseme","value":"p"}
+{"time":72,"type":"viseme","value":"a"}
+{"time":140,"type":"viseme","value":"k"}
+{"time":212,"type":"viseme","value":"k"}
+{"time":268,"type":"viseme","value":"a"}
+{"time":306,"type":"viseme","value":"p"}
+{"time":348,"type":"viseme","value":"s"}
+{"time":448,"type":"viseme","value":"i"}
+{"time":478,"type":"viseme","value":"p"}
+{"time":516,"type":"viseme","value":"t"}
+{"time":545,"type":"viseme","value":"i"}
+{"time":617,"type":"viseme","value":"t"}
+{"time":709,"type":"viseme","value":"a"}
+{"time":954,"type":"viseme","value":"sil"}

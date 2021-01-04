@@ -1,0 +1,20 @@
+{"time":0,"type":"sentence","start":0,"end":26,"value":"아무도 안계신가요?"}
+{"time":6,"type":"word","start":0,"end":9,"value":"아무도"}
+{"time":6,"type":"viseme","value":"a"}
+{"time":106,"type":"viseme","value":"p"}
+{"time":174,"type":"viseme","value":"u"}
+{"time":227,"type":"viseme","value":"t"}
+{"time":281,"type":"viseme","value":"o"}
+{"time":370,"type":"word","start":10,"end":25,"value":"안계신가요"}
+{"time":370,"type":"viseme","value":"a"}
+{"time":462,"type":"viseme","value":"k"}
+{"time":539,"type":"viseme","value":"k"}
+{"time":591,"type":"viseme","value":"e"}
+{"time":647,"type":"viseme","value":"s"}
+{"time":742,"type":"viseme","value":"i"}
+{"time":782,"type":"viseme","value":"k"}
+{"time":838,"type":"viseme","value":"k"}
+{"time":882,"type":"viseme","value":"a"}
+{"time":970,"type":"viseme","value":"i"}
+{"time":1030,"type":"viseme","value":"o"}
+{"time":1243,"type":"viseme","value":"sil"}

@@ -1,0 +1,25 @@
+{"time":0,"type":"sentence","start":0,"end":33,"value":"체험해 보시길 바랍니다."}
+{"time":6,"type":"word","start":0,"end":19,"value":"체험해 보시길"}
+{"time":6,"type":"viseme","value":"J"}
+{"time":107,"type":"viseme","value":"e"}
+{"time":170,"type":"viseme","value":"@"}
+{"time":270,"type":"viseme","value":"p"}
+{"time":343,"type":"viseme","value":"e"}
+{"time":413,"type":"viseme","value":"p"}
+{"time":464,"type":"viseme","value":"o"}
+{"time":534,"type":"viseme","value":"s"}
+{"time":626,"type":"viseme","value":"i"}
+{"time":654,"type":"viseme","value":"k"}
+{"time":710,"type":"viseme","value":"i"}
+{"time":752,"type":"viseme","value":"t"}
+{"time":843,"type":"word","start":20,"end":32,"value":"바랍니다"}
+{"time":843,"type":"viseme","value":"p"}
+{"time":897,"type":"viseme","value":"a"}
+{"time":946,"type":"viseme","value":"t"}
+{"time":996,"type":"viseme","value":"a"}
+{"time":1046,"type":"viseme","value":"p"}
+{"time":1104,"type":"viseme","value":"t"}
+{"time":1157,"type":"viseme","value":"i"}
+{"time":1217,"type":"viseme","value":"t"}
+{"time":1314,"type":"viseme","value":"a"}
+{"time":1602,"type":"viseme","value":"sil"}
