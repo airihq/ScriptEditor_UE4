@@ -30,11 +30,11 @@
 
 ### Save
 - 선택된 스크립트의 현재 상태 저장
-- Content/Data/Save 폴더 아래 시나리오 DB 파일과 같은 이름의 폴더에 저장
+- ./Content/Data/Save 폴더 아래 시나리오 DB 파일과 같은 이름의 폴더에 저장
 
 ### Export
 - 실제 사용할 액션 스크립트로 불필요한 항목 제거된 스크립트 파일
-- Content/Data/Export 폴더 아래 시나리오 DB 파일과 같은 이름의 폴더에 저장 됨
+- ./Content/Data/Export 폴더 아래 시나리오 DB 파일과 같은 이름의 폴더에 저장 됨
 - UsedAnimation.json(모든 사용된 애니메이션 목록만 모아둔 json 파일) 자동 생성됨  
 
 ### Play
@@ -66,16 +66,18 @@
 ### On AnimPreview
 - 애니메이션 Tree view에서 해당 애니메이션 Preview 활성화(로딩이 오래걸림)
 
-## 사용법
+## 스크립트 작성 방법
+- 다음은 스크립트 작성 및 전송을 위한 설명이다.
+
 ### 실행 
 - ./Content/Data/config.json 에서 db 경로와 socketio 주소를 설정한다.
 - 명령 프롬프트 창에서 ./socketio-server-wrap 경로 이동후 ``node app.js`` 명령어로 SocketIO 서버를 실행한다.
-- ScriptEditor.uproject 실행 
+- ``ScriptEditor.uproject`` 실행 
 
 ### 불러오기 및 스크립트,Tab 선택
-- 시나리오 DB Open 
+- ``Open`` 클릭하여 시나리오 DB를 연다. 
 - Script Tree View에서 스크립트 선택
-- Gesture/Cmd/UI/Sound 중 원하는 탭 선택
+- ``Gesture/Cmd/UI/Sound`` 중 원하는 탭 선택
 
 ### Gesture/Sound Tab
 - 사용할 컨트롤러 선택(선택시 회색으로 활성화)
@@ -96,7 +98,7 @@
 
 ### Gesture Phase 입력/수정/삭제
 - Gesture Phase 입력하기 : 컨트롤러 스케쥴 테이블의 첫번째 줄 원하는 박스 위치에서 클릭 후 입력   
-(Preperation:’P’ key / Stroke1: ‘S’ key / Stroke2: ‘T’ key / Relax: ‘R’ key)
+(Preperation:'P' key / Stroke1: 'S' key / Stroke2: 'T' key / Relax: 'R' key)
 - Gesture Phase 삭제 : 입력된 제스쳐 phase 묶음 양끝에서 Delete key 입력, 묶음 중간에서는 삭제가 되지 않는다
 - Gesture Phase 묶음 애니메이션 수정하기 : 애니메이션 이름이 적힌 박스(보라색) 클릭 후 애니메이션 Tree view에서 변경할 애니메이션 선택
 - Gesture Phase 묶음 애니메이션 삭제하기 :  애니메이션 이름이 적힌 박스(보라색) 클릭 후 Delete key 입력
@@ -105,6 +107,13 @@
 - 해당 스크립트의 대사가 적힌 부분에서 패딩 원하는 Text Box 클릭 후 오른쪽 키( → ) 입력
 - 회색으로 새로 생성된 박스에 원하는 시간을 입력한다.
 - 삭제 원할시 패딩된 박스 두번 클릭 후 Delete key 누른다(박스를 한번만 클릭하면 text 입력커서가 활성화 된다. 두번 클릭해야 한다) 
+
+### 스크립트 전송 및 저장하기
+- 스크립트 작성 후 ``Play``버튼을 누르면 SocketIO로 연결된 서버에 json 형태로 전송되며, 서버에서는 연결된 Unreal 클라이언트로 전송한다.
+- ``Save``버튼을 클릭하면 ./Content/Data/Save 폴더 아래 시나리오 DB 파일과 같은 이름의 폴더에 json 형태로 저장된다.
+- ``Export``버튼을 클릭하면 ./Content/Data/Export 폴더 아래 시나리오 DB 파일과 같은 이름의 폴더에 json 형태로 저장된다.(불필요한 항목 제거된 스크립트 파일)
+
+## 복사하기 기능 사용 방법
 
 ### 복사하기 기능을 위한 세팅
 - ./Content/Data/Scenario 폴더 내 기존 시나리오 파일 복사 및 붙여넣기(이름은 다르게 Ex. ScriptList_copy.db)
