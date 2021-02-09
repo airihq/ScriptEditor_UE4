@@ -65,8 +65,13 @@
 ### Play
 - 아린바디로 해당 스크립트 전송
 
-# On AnimPreview
+### On AnimPreview
 - 애니메이션 Tree view에서 해당 애니메이션 Preview 활성화(로딩이 오래걸림)
+
+## 실행방법
+- ./Content/Data/config.json 에서 db 경로와 socketio 주소를 설정한다.
+- 명령 프롬프트 창에서 ./socketio-server-wrap 경로 이동후 ``node app.js`` 명령어로 SocketIO 서버를 실행한다.
+- ScriptEditor.uproject 실행 
 
 //
 CTRL+C and +V (애니메이션 단위 복사)
@@ -77,11 +82,7 @@ Main창에서 원하는 위치에서 CTRL+V → 붙여넣기
 //
 
 
-## 실행방법
-- ./Content/Data/config.json 에서 db 경로와 socketio 주소를 설정한다.
-- 명령 프롬프트 창에서 ./socketio-server-wrap 경로 이동후 ``node app.js`` 명령어로 SocketIO 서버를 실행한다.
-- ScriptEditor.uproject 실행 
-  
+
 ## 사용법
 
 - Open : 지정된 db 파일 불러오기
