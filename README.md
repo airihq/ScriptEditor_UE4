@@ -106,10 +106,10 @@
 - 회색으로 새로 생성된 박스에 원하는 시간을 입력한다.
 - 삭제 원할시 패딩된 박스 두번 클릭 후 Delete key 누른다(박스를 한번만 클릭하면 text 입력커서가 활성화 된다. 두번 클릭해야 한다) 
 
-### 즐겨찾기(기존에 작성된 시나리오 파일만 보고싶을때)
-- ./Content/Data/Scenario 폴더 내 기존 시나리오 파일 복사 및 붙여넣기(ex. ScriptList_copy.db)
-- ./Content/Data/Save 폴더 내 기존 시나리오 폴더 복사 및 붙여넣기(ex. ScriptList_copy)
-- ./Content/Data/config.json에서 FavoritePath 항목에 복사한 시나리오 DB path 입력(ex. /Data/Scenario/ScriptList_copy.db)
+### 복사하기 기능을 위한 세팅
+- ./Content/Data/Scenario 폴더 내 기존 시나리오 파일 복사 및 붙여넣기(이름은 다르게 Ex. ScriptList_copy.db)
+- ./Content/Data/Save 폴더 내 기존 시나리오 폴더 복사 및 붙여넣기(Ex. ScriptList_copy)
+- ./Content/Data/config.json에서 FavoritePath 항목에 복사한 시나리오 DB path 입력
 
 ### 모두 복사하기
 - Sample 버튼 클릭하여 Sample창 확장
