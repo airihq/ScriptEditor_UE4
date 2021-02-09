@@ -68,11 +68,6 @@
 ### On AnimPreview
 - 애니메이션 Tree view에서 해당 애니메이션 Preview 활성화(로딩이 오래걸림)
 
-## 실행방법
-- ./Content/Data/config.json 에서 db 경로와 socketio 주소를 설정한다.
-- 명령 프롬프트 창에서 ./socketio-server-wrap 경로 이동후 ``node app.js`` 명령어로 SocketIO 서버를 실행한다.
-- ScriptEditor.uproject 실행 
-
 //
 CTRL+C and +V (애니메이션 단위 복사)
 Sample창에서 원하는 애니메이션 선택(빨간박스) 후 CTRL+C → 복사
@@ -84,20 +79,37 @@ Main창에서 원하는 위치에서 CTRL+V → 붙여넣기
 
 
 ## 사용법
+### 실행 
+- ./Content/Data/config.json 에서 db 경로와 socketio 주소를 설정한다.
+- 명령 프롬프트 창에서 ./socketio-server-wrap 경로 이동후 ``node app.js`` 명령어로 SocketIO 서버를 실행한다.
+- ScriptEditor.uproject 실행 
 
-- Open : 지정된 db 파일 불러오기
+### 불러오기 및 스크립트 선택
+- 시나리오 DB Open 
+- Script Tree View에서 스크립트 선택
+- Gesture/Cmd/UI/Sound 중 원하는 탭 선택
 
-- 
+### Gesture/Sound Tab
+- 사용할 컨트롤러 선택(선택시 회색으로 활성화)
+- 애니메이션 Tree View에서 사용할 애니메이션(or 사운드) 목록 선택
+- 스케쥴 테이블에서 제스쳐 추가
 
+### Cmd Tab
+- 콤보박스에서 사용할 컨트롤러 선택
+- 애니메이션 Tree View에서 사용할 커맨드 선택
+- 파라미터가 필요한 경우 입력한다 
+- 스케쥴 테이블에서 제스쳐 추가(GazeUpper: Stroke,Relax/ 그 외:Stroke 만 입력)
+ 
+### UI Tab
+- 첫번째 콤보박스에서 사용할 UI 종류 선택
+- 두번째 콤보박스에서 UI 사용할 이름 선택
+- 사용할 Type 선택시 스트링 입력이 가능한 경우 텍스트 박스가 활성화된다
+- 필요시 스트링 입력 후 스케쥴 테이블에서 제스쳐 추가(Stroke만 입력)
 
-
-- 카테고리 선택 : 스크립트 로드 후, 왼쪽 테이블에 해당 db의 카테고리 목록이 뜬다. 이 목록의 체크 박스를 클릭하여 선택/해제를 할 수 있다. 또한, Drag & Drop으로 카테고리의 순서를 변경 할수 있다.
-
-- 액션 스크립트 선택 : 카테고리를 클릭하면 해당 액션 스크립트 목록이 뜬다. 액션 스크립트 목록 또한 체크 박스를 클릭하여 선택/해제 할 수 있으며 Drag & Drop으로 순서 변경이 가능하다.
-
-- 제목 입력: 상단 중앙부의 텍스트박스에 제목을 입력할 수 있다.
-
-- 기타 : 일반모드/영상모드, 세로모드/가로모드, 테마1~3 선택이 가능하다. 
-
-- Export : 위에서 선택한 정보를 바탕으로 json 형태로 파일을 생성한다. 구조는 아래와 같다.
+### Gesture Phase 입력/수정/삭제
+- Gesture Phase 입력하기 : 컨트롤러 스케쥴 테이블의 첫번째 줄 원하는 박스 위치에서 클릭 후 입력
+(Preperation:’P’ key / Stroke1: ‘S’ key / Stroke2: ‘T’ key / Relax: ‘R’ key)
+- Gesture Phase 삭제 : 입력된 제스쳐 phase 묶음 양끝에서 Delete key 입력, 묶음 중간에서는 삭제가 되지 않는다
+- Gesture Phase 묶음 애니메이션 수정하기 : 애니메이션 이름이 적힌 박스(보라색) 클릭 후 애니메이션 Tree view에서 변경할 애니메이션 선택
+- Gesture Phase 묶음 애니메이션 삭제하기 :  애니메이션 이름이 적힌 박스(보라색) 클릭 후 Delete key 입력
 
