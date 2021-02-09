@@ -107,7 +107,7 @@ Main창에서 원하는 위치에서 CTRL+V → 붙여넣기
 - 필요시 스트링 입력 후 스케쥴 테이블에서 제스쳐 추가(Stroke만 입력)
 
 ### Gesture Phase 입력/수정/삭제
-- Gesture Phase 입력하기 : 컨트롤러 스케쥴 테이블의 첫번째 줄 원하는 박스 위치에서 클릭 후 입력
+- Gesture Phase 입력하기 : 컨트롤러 스케쥴 테이블의 첫번째 줄 원하는 박스 위치에서 클릭 후 입력   
 (Preperation:’P’ key / Stroke1: ‘S’ key / Stroke2: ‘T’ key / Relax: ‘R’ key)
 - Gesture Phase 삭제 : 입력된 제스쳐 phase 묶음 양끝에서 Delete key 입력, 묶음 중간에서는 삭제가 되지 않는다
 - Gesture Phase 묶음 애니메이션 수정하기 : 애니메이션 이름이 적힌 박스(보라색) 클릭 후 애니메이션 Tree view에서 변경할 애니메이션 선택
