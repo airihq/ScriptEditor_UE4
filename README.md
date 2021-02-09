@@ -51,13 +51,11 @@
 - 샘플들 모아둔 시나리오 DB 목록 열기
 
 ### CopyAll(모두복사)
-- Samples 창에서 모든 제스쳐를 복사
-- Main 창에서 칸이 부족한 경우 복사가 되지 않음 
+- Samples 창에서 미리 만들어진 스크립트로부터 모두 복사하기
 
 ### Copy/Reset(길이 지정 복사)
-- Samples 창, Main 창 대사 텍스트 박스에서 우클릭으로 길이 지정(파란박스)
-- Sample, Main에서 선택한 텍스트 길이 비율에 맞게 제스쳐들이 복사가 된다
-- 칸이 부족한 경우 복사 되지 않음
+- Samples 창에서 미리 만들어진 스크립트의 일부 부분을 선택하여 Main 창에서 선택된 길이로 복사
+- Main창에서 선택된 길이에 맞춰서 대사길이가 자동으로 줄어들거나 늘어난다
 
 ### Reset
 - 길이 지정 박스(파란박스) Reset
@@ -68,23 +66,13 @@
 ### On AnimPreview
 - 애니메이션 Tree view에서 해당 애니메이션 Preview 활성화(로딩이 오래걸림)
 
-//
-CTRL+C and +V (애니메이션 단위 복사)
-Sample창에서 원하는 애니메이션 선택(빨간박스) 후 CTRL+C → 복사
-Main창에서 원하는 위치에서 CTRL+V → 붙여넣기
-붙여넣기 시 Main 창 각 컨트롤러의 두번째줄에서 수행해야 한다
-    
-//
-
-
-
 ## 사용법
 ### 실행 
 - ./Content/Data/config.json 에서 db 경로와 socketio 주소를 설정한다.
 - 명령 프롬프트 창에서 ./socketio-server-wrap 경로 이동후 ``node app.js`` 명령어로 SocketIO 서버를 실행한다.
 - ScriptEditor.uproject 실행 
 
-### 불러오기 및 스크립트 선택
+### 불러오기 및 스크립트,Tab 선택
 - 시나리오 DB Open 
 - Script Tree View에서 스크립트 선택
 - Gesture/Cmd/UI/Sound 중 원하는 탭 선택
@@ -113,3 +101,27 @@ Main창에서 원하는 위치에서 CTRL+V → 붙여넣기
 - Gesture Phase 묶음 애니메이션 수정하기 : 애니메이션 이름이 적힌 박스(보라색) 클릭 후 애니메이션 Tree view에서 변경할 애니메이션 선택
 - Gesture Phase 묶음 애니메이션 삭제하기 :  애니메이션 이름이 적힌 박스(보라색) 클릭 후 Delete key 입력
 
+### Time Padding
+- 해당 스크립트의 대사가 적힌 부분에서 패딩 원하는 Text Box 클릭 후 오른쪽 키( → ) 입력
+- 회색으로 새로 생성된 박스에 원하는 시간을 입력한다.
+- 삭제 원할시 패딩된 박스 두번 클릭 후 Delete key 누른다(박스를 한번만 클릭하면 text 입력커서가 활성화 된다. 두번 클릭해야 한다) 
+
+### 즐겨찾기(기존에 작성된 시나리오 파일만 보고싶을때)
+- ./Content/Data/Scenario 폴더 내 기존 시나리오 파일 복사 및 붙여넣기(ex. ScriptList_copy.db)
+- ./Content/Data/Save 폴더 내 기존 시나리오 폴더 복사 및 붙여넣기(ex. ScriptList_copy)
+- ./Content/Data/config.json에서 FavoritePath 항목에 복사한 시나리오 DB path 입력(ex. /Data/Scenario/ScriptList_copy.db)
+
+### 모두 복사하기
+- Sample 버튼 클릭하여 Sample창 확장
+- Tree view로부터 타겟 스크립트를 연다.
+- CopyAll 버튼을 클릭하여 Main창에 스크립트 복사 
+
+### 길이 지정 복사하기
+- Samples 창, Main 창 대사 텍스트 박스에서 우클릭으로 길이 지정(파란박스)
+- Sample, Main에서 선택한 텍스트 길이 비율에 맞게 제스쳐들이 복사가 된다
+- 칸이 부족한 경우 복사 되지 않음
+
+### 애니메이션 단위 복사하기
+- Sample창에서 원하는 애니메이션 선택(빨간박스) 후 CTRL+C 하여 복사하기
+- Main창에서 원하는 위치에서 CTRL+V 하여 붙여넣기
+- 붙여넣기 시 Main 창 각 컨트롤러의 두번째줄에서 수행해야 한다
