@@ -19,9 +19,8 @@
 
 ### ./Content/Data/Scenario 
 - 사용할 시나리오 DB 파일 넣는다 
-- FavoriteScriptList.db : 샘플들 모아둔 시나리오 DB      
+- FavoriteScriptList.db : 샘플들 모아둔 시나리오 DB\
 
-\
 ## 메뉴 소개
 
 ### Open
@@ -65,9 +64,8 @@
 - 아린바디로 해당 스크립트 전송
 
 ### On AnimPreview
-- 애니메이션 Tree view에서 해당 애니메이션 Preview 활성화(로딩이 오래걸림)      
+- 애니메이션 Tree view에서 해당 애니메이션 Preview 활성화(로딩이 오래걸림)\
 
-\
 ## 스크립트 작성 방법
 - 다음은 스크립트 작성 및 전송을 위한 설명이다.
 
@@ -113,9 +111,9 @@
 ### 스크립트 전송 및 저장하기
 - 스크립트 작성 후 ``Play``버튼을 누르면 SocketIO로 연결된 서버에 json 형태로 전송되며, 서버에서는 연결된 Unreal 클라이언트로 전송한다.
 - ``Save``버튼을 클릭하면 ./Content/Data/Save 폴더 아래 시나리오 DB 파일과 같은 이름의 폴더에 json 형태로 저장된다.
-- ``Export``버튼을 클릭하면 ./Content/Data/Export 폴더 아래 시나리오 DB 파일과 같은 이름의 폴더에 json 형태로 저장된다.(불필요한 항목 제거된 스크립트 파일)      
+- ``Export``버튼을 클릭하면 ./Content/Data/Export 폴더 아래 시나리오 DB 파일과 같은 이름의 폴더에 json 형태로 저장된다.(불필요한 항목 제거된 스크립트 파일)\
 
-\
+
 ## 복사하기 기능 사용 방법
 
 ### 복사하기 기능을 위한 세팅
