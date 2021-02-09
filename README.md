@@ -1,19 +1,20 @@
 # ScriptEditor_UE4
 
-## 파일설명
-- ./Contents/ARINBODYData 내부
+## 데이터 설명(./Content/Data)
+### ㅇㅇㅇ
+- MotionDB.db : 애니메이션 정보
 
-MotionDB.db : 애니메이션 정보
+- SoundDB.db : 효과음 DB
 
-SoundDB.db : 효과음 DB
+- WidgetInfoData.json : 사용할 Widget 관련 정보
 
-WidgetInfoData.json : 사용할 Widget 관련 정보
+- CmdInfoData.json : 커맨드 관련 정보
 
-CmdInfoData : 커맨드 관련 정보
+- wav 폴더 : wav 데이터 
 
-wav_marks : wav 데이터 및 marks 데이터 
+- marks 폴더 : marks 데이터
 
-config.json : 시나리오 DB 경로, SocketIO 서버 주소 설정
+- config.json : 시나리오 DB 경로, SocketIO 서버 주소 설정
 
 # Content/Data/Scenario 폴더
 사용할 시나리오 DB 파일 넣는다 
